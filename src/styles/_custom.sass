@@ -1,19 +1,315 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 22%
+    left: -125%
+    @media (max-width: $bp-max-lg)
+      top: 12%
+      left: -25%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    top: 45%
+    left: 6%
+    width: 21%
+  &-3
+    animation: float2 5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 15%
+    left: 8%
+    width: 17%
+  &-4
+    animation: larggest 5s ease-in-out infinite alternate
+    position: absolute
+    top: 20%
+    right: 13%
+  &-5
+    animation: vanish 5s ease-in-out infinite alternate
+    position: absolute
+    top: 45%
+    left: 6%
+    width: 21%
 
 
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
+  
+@keyframes float2
+  0%
+    transform: translateX(20px)
+  100%
+    transform: translateX(0px)
+  
+@keyframes vanish
+  0%
+    opacity: 0
+  10%
+    opacity: 0.5
+  20%
+    opacity: 0
+  100%
+    opacity: 1
+
+@keyframes larggest
+  0%
+    transform: scale(1)
+  100%
+    transform: scale(1.10)
+  
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: $color-sistema-texto
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img01.png") !important
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG02
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.BGIMG03
+  background-image: url("../assets/curso/fondos/img03.png")
+
+.BGIMG04.acordion__activo
+  background-image: url("../assets/curso/fondos/img04.png")
+
+.BGIMG05
+  background-image: url("../assets/curso/fondos/img05.png")
+
+.BGIMG01, .BGIMG02, .BGIMG03, .BGIMG04.acordion__activo, .BGIMG05
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGIMG04
+  background-color: #FFF5DD
+
+.BGIMG01, .BGIMG05, .BGM13
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.BGR01
+  background-color: #FCC52E
+
+.BG02
+  background-color: #E3F3FD
+
+.BG03, .BGT03
+  background-color: #B6E1FD
+
+.BGS04
+  background-color: #DFF2FF
+
+.BG05
+  background-color: #D4E9FE
+
+.BG06, .arrow-down-a.BGS06, .arrow-down-b.BGS06
+  background-color: #FFB338
+
+.arrow-down-a.BGS06, .arrow-down-b.BGS06
+  &::after
+    border-top: 20px solid #FFB338
+
+.BG07
+  background-color: #E44E00
+
+.BG08
+  background-color: #B1DE19
+
+.BG09
+  background-color: #617A0B
+
+.BG10, .arrow-down-a.BGS10, .arrow-down-b.BGS10, .bloque-texto-g.color-acento-contenido
+  background-color: #3D672F
+
+.arrow-down-a.BGS10, .arrow-down-b.BGS10
+  &::after
+    border-top: 20px solid #3D672F
+
+.BG11
+  background-color: #038A7B
+
+.BG12, .img-infografica-b__modal
+  background-color: #2B95F9
+
+.BGM13
+  background: linear-gradient(to bottom, #FFF, #F1F9FE, #FFF)
+
+.BG14, .BGS14
+  background-color: #F3F9FF
+
+.BG15, .BGR15
+  background-color: #F6F6F6
+
+.BG16
+  background-color: #FFF4D9
+
+.BGS17
+  background-color: #E3F1FA
+
+.BG18
+  background-color: #FFF3D6
+
+.BGS19
+  background-color: #FBEACF
+
+.BG20
+  background-color: #CBEBF2
+
+.linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__number, .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color: #DAE8F1
+
+.tarjeta-flip.color-acento-botones .tarjeta-flip__contenido
+  background-color: #DBEDF8
+
+.tabs-a__tab
+  background-color: #E8E8E8
+
+.cajon.color-primario
+  background-color: #FFF7E5
+
+.img-infografica-b.color-primario .img-infografica-b__item__dot:before, .img-infografica-b.color-primario .img-infografica-b__item__dot:after
+  background-color: #12263F
+
+.img-infografica-b.color-primario .img-infografica-b__item__numero
+  color: $white
+
+.BGR01, .BGIMG03, .BGIMG04, .BGR15
+  border-radius: 10px
+
+.BGS06, .BGS10
+  border-radius: 20px 20px 0 0
+
+.BGS17
+  border-radius: 0 0 20px 20px
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  border-radius: 5px 5px 0 0
+  
+.linea-tiempo-d__item__content__slot
+  border-radius: 0 0 5px 5px
+
+.BGT03, .BGS14
+  border-radius: 20px
+
+.BGIMG02, .BGT03, .BGS04, .BGS14, .BGS19
+  box-shadow: 2px 2px 10px #707070
+
+.BGR15
+  border: 1px solid #707070
+
+.slyder-f__btn i
+  color: #707BA3
+
+.lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li
+  display: flex
+
+.tabla-b td, .tabla-c td, .tabla-b th, .tabla-c th
+  padding: 10px 20px
+
+.tabla-a th
+  @media (max-width: $bp-max-md)
+    font-size: 0.825em
+
+.img-infografica__item
+  width: 8%
+
+.linea-tiempo-b__icon
+  padding-top: 0%
+
+.linea-tiempo-b__icon img
+  width: 100%
+
+.hg-01
+  height: 314px
+  @media (max-width: $bp-max-lg)
+    height: 338px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.hg-02
+  height: 546px
+  @media (max-width: $bp-max-xl)
+    height: 618px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.hg-03
+  height: 478px
+  @media (max-width: $bp-max-xl)
+    height: 598px
+  @media (max-width: $bp-max-lg)
+    height: 454px
+  @media (max-width: $bp-max-md)
+    height: 670px
+  @media (max-width: $bp-max-sm)
+    height: initial
+  
+.hg-04
+  height: 232px
+  @media (max-width: $bp-max-xl)
+    height: 256px
+  @media (max-width: $bp-max-lg)
+    height: 232px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.img-01
+  position: absolute
+  width: 15%
+  left: 42%
+  
+.slyder-a__bullets__item--active
+  background-color: #EB6F2D !important
+
+.slyder-a__bullets__item
+  background-color: #DABBAB
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #F4F4F5
+  @media (max-width: $bp-max-xs)
+    width: 25px
+    height: 25px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    width: 7px
+    height: 7px
+    margin: 0 5px
+  
+.arrow-down-a, .arrow-down-b
+  position: relative
+  &::after
+    position: absolute
+    width: 0
+    height: 0
+    border-right: 20px solid transparent
+    border-left: 20px solid transparent
+    border-bottom: 20px solid transparent
+    content: ''
+  
+.arrow-down-a
+  &::after  
+    right: 45%
+    bottom: -50%
+  
+.arrow-down-b
+  &::after  
+    right: 45%
+    bottom: -40%
+
+.zindex-1
+  z-index: 1
+
+.zindex-2
+  z-index: 2
+
+.zindex-3
+  z-index: 3
+
+.tabs-c.color-primario .tabs-c__tab--active
+  font-weight: 900
