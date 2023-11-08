@@ -22,7 +22,7 @@
       .row.justify-content-center.mb-5
         .col-lg-8
           figure(data-aos="zoom-in")
-            img(src='@/assets/curso/tema2/img02.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img02.svg' alt="Muestra gráfica de segmentación del plan de mercado y se describen textos parte inferior.")
 
     p.mb-5(data-aos="fade-right") Al iniciar la fase de segmentación es recomendable formular preguntas que ayuden con la tarea. Vea algunos ejemplos:
 

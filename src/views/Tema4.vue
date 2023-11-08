@@ -36,7 +36,7 @@
             p Este complejo proceso se subdivide en SEO #[em on page] y SEO #[em off page]. El primer ítem se refiere a aquellas acciones de optimización ejecutadas sobre la propia página #[em web]: estructura interna y arquitectura de la información, factores técnicos de la programación del #[em site], producción y optimización de contenidos.
             p.mb-0 Por el contrario, el SEO #[em off page] se refiere a las acciones vinculadas a la popularidad de la #[em Web] que por definición se desarrollan en páginas externas, fundamentalmente la adquisición de enlaces en #[em Web] de la misma temática. Vea esto con más detalle.
         .col-lg-7.col-10.py-4.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema4/img03.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema4/img03.svg' alt="Imagen Search Engine Optimization (SEO)<br>SEO on page<br>SEO off page<br>SEO= SEO on page + SEO off page")
 
     .row.justify-content-start.mb-5
       .col-auto(data-aos="fade-right")
@@ -144,9 +144,9 @@
 
     .row.justify-content-center.mb-5
       .col-lg-6.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema4/img07.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema4/img07.svg' alt="Muestra imagen de URL Amigable con la página ejemplo www.reyespets.com")
       .col-lg-6(data-aos="fade-left")
-        img(src='@/assets/curso/tema4/img08.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema4/img08.svg' alt="Muestra imagen de URL No amigable con URL www.interdigital.es/reyespets/951/default.aspx")
 
     p.mb-5(data-aos="fade-right") Si se observa las URL de la imagen se puede apreciar que la primera URL es más fácil de leer, que la segunda, y es justamente esta facilidad de entender el contenido de la página con solo leer la URL de lo que se trata, esta facilidad se hace extensiva tanto a usuarios como a navegadores.
     
@@ -157,7 +157,7 @@
       .row.justify-content-center
         .col-lg-6
           figure(data-aos="zoom-in")
-            img(src='@/assets/curso/tema4/img09.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema4/img09.svg' alt="Muestra Breadcrumbs en una página web que señala el inicio, nuevo, accesorios, promociones, contacto")
 
     p(data-aos="fade-right") El uso de esta herramienta es muy relevante para sitios #[em web] con un gran número de URL y de estructura compleja, como los sitios de comercio electrónico. A manera de ejemplo se ha tomado una imagen del sitio #[em web] del comercio electrónico Homecenter.com.co, en el que se evidencia el uso de esta herramienta, que además de servir para el posicionamiento #[em web] y la usabilidad del sitio, permite a los #[em robots] de búsqueda entender la estructura del sitio #[em web] más fácilmente.
     p.mb-5(data-aos="fade-right") #[strong Los #[em sitemaps]]: otra de las herramientas que brinda gran utilidad a la hora de posicionarse en los buscadores es el recurso conocido como mapa del sitio.
@@ -165,7 +165,7 @@
     .row.justify-content-center.mb-5
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema4/img10.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema4/img10.svg' alt="Muestra imagen de sitemaps que se describe en la parte inferior")
           figcaption Fuente. <span style="font-weight: 400">Tomado de Seobility</span> Nombre: <span style="font-weight: 400">XLM Sitemap</span>
       .col-lg-6(data-aos="fade-left")
         p Este es un archivo de código donde se estructuran jerárquicamente las rutas de navegación del sitio, es decir, en este archivo, se indica al #[em crawler] el camino correcto que debe ser recorrido. Un #[em crawler] o araña de búsqueda es un robot que rastrea en Internet localizando páginas relevantes para cada búsqueda. 
@@ -235,7 +235,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-7.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema4/img13.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema4/img13.svg' alt="Imagen muestra letras SEM <br>Search<br>Engine<br>Marketing")
       .col-lg-5(data-aos="fade-left")
         p Entender estas técnicas, conocer sus posibilidades y entender cómo aplicarlas a la estrategia #[em online] se convertirá en una ventaja frente a los competidores, para obtener el anhelado lugar dentro del buscador que le permita contar con mayor visibilidad en la red y así aumentar sus posibilidades de convertir esas búsquedas en ventas.
         p.mb-0 Para lograr un entendimiento óptimo se iniciará desde la base. Previamente se definió lo que se conoce como buscador, la herramienta que permite al usuario de Internet encontrar una #[em Web] o un contenido determinado a partir de la introducción de un término o frase en el cuadro de búsqueda.
@@ -243,7 +243,7 @@
     p.mb-5(data-aos="fade-right") Estos resultados se muestran en las SERP “#[em Search Engine Results Page]”, mediante una serie de parámetros y algoritmos predefinidos, y que los buscadores filtran para entregar los enlaces que considera más relevantes en relación con la búsqueda realizada.
 
     figure.mb-5(data-aos="zoom-in")
-      img(src='@/assets/curso/tema4/img14.svg' alt="Imagen decorativa")
+      img(src='@/assets/curso/tema4/img14.svg' alt="Imagen señala  en página Google SERP - Search Engine Results Page acorde descripción anterior iamgen")
       figcaption Nombre: <span style="font-weight: 400">SERP - Search Engine Results Page</span>
 
     p(data-aos="fade-right") Seguramente como cualquier persona ha realizado búsquedas en diferentes buscadores que hay en la red; pero se ha detenido a mirar cómo se muestran los resultados, ¿sería capaz de diferenciar los anuncios y la ubicación de estos, del resto de los resultados?
@@ -269,7 +269,7 @@
       .row.justify-content-center
         .col-lg-6
           figure(data-aos="zoom-in")
-            img(src='@/assets/curso/tema4/img16.png' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema4/img16.png' alt="Imagen muestra persona con las letras<br>SEM=SEO+PPC")
     
     p.mb-5(data-aos="fade-right") De esta forma se puede puntualizar que el SEM es la combinación de métodos y técnicas que contribuyen al óptimo posicionamiento de una página #[em web] o contenido en los resultados de los buscadores, con el objetivo de lograr que sean encontrados por los potenciales clientes o usuarios.
 
@@ -391,7 +391,7 @@
         .col-lg-8
           .h4.text-center Tamaños #[em banner display]
           figure(data-aos="zoom-in")
-            img(src='@/assets/curso/tema4/img29.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema4/img29.svg' alt="Imagen muestra mapa con los diferentes tamaños banner display texto  a descripción anterior imagen ")
             figcaption Nombre: <span style="font-weight: 400">Tamaños avisos #[em display]</span>
 
     .row.justify-content-center.align-items-center.mb-5
@@ -402,7 +402,7 @@
           p De acuerdo con su diseño, se puede hablar de banners estáticos (texto, imágenes o una combinación de ambos) o dinámicos (video, audio, animaciones, también conocidos como #[strong Rich Media Ads]).
           p.mb-0 Su tamaño se mide en pixeles y dependiendo de su tamaño y ubicación tienen un mayor o menor coste y eficacia. Las medidas más utilizadas se muestran en la ilustración.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema4/img30.jpg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema4/img30.jpg' alt="Muestra ubicación de banners en el display y su descripción de cada parte esta en la parte inferior de la imagen")
 
     p.mb-5(data-aos="fade-right") Por su ubicación y uso los más conocidos son:
 

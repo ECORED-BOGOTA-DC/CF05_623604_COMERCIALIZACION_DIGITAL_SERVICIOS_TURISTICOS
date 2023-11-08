@@ -251,22 +251,22 @@
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Analizar las conductas habituales de su #[em buyer] persona en entornos digitales es crucial para entender a través de qué canales puede conectar con él. Cuáles son sus intereses, qué tipo de contenido consume. Trate de responder a estas preguntas:
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img11.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img11.svg' alt="Muestra texto de las siguientes preguntas:<br>-¿Cómo se comporta en Internet? <br>-¿Es lector/a asiduo/a de blogs? <br>-¿Prefiere contenido multimedia? <br>-¿Usa habitualmente el correo electrónico?<br>-¿Prefiere acciones más directas como llamadas telefónicas?<br>-¿A qué redes sociales, grupos o comunidades pertenece? ")
       .row.justify-content-center(titulo="Define objetivos, retos y sueños")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 El verdadero valor de este arquetipo de cliente ideal reside en que analiza aspectos que, muchas veces, en los perfiles de mercadeo tradicionales se obvian. Se hablan, por ejemplo, de los objetivos, preocupaciones, sueños e ilusiones del usuario o consumidor. Estos aspectos son los que permitirán conectar con él y construir un vínculo más fuerte; por lo tanto, debe trabajar sobre ellos y tratar de definirlos al máximo. Para ello, responda estas preguntas:
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img12.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img12.svg' alt="Muestra texto con las siguientes preguntas:<br>¿Qué persigue el buyer persona?<br>¿Qué objetivos pretende alcanzar?<br>¿A que retos ha de enfrentarse?<br>¿Qué sueños no ha podido cumplir aún?<br>¿Pueden los productos o servicios de la empresa hacerle la vida más fácil?<br>¿Qué sueños no ha podido cumplir aún?")
       .row.justify-content-center(titulo="Pasa de las preguntas a la acción")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Una vez conoce sus motivaciones. Entender cómo su producto o servicio puede ayudarle, ya sea resolviendo el problema, cubriendo una necesidad o mejorando su día a día. Algunas preguntas que debe hacerse en este punto son:
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img13.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img13.svg' alt="Muestra texto con preguntas<br>-¿Cómo puede la marca o empresa ayudar al cliente a conseguir sus objetivos?<br>-¿Qué bloqueantes puede tener el potencial cliente a la hora de comprar su producto o servicio?<br>-¿Qué le puede ofrecer la competencia para que elija su producto o servicio en lugar del suyo? <br>-¿Cuál de los productos que ofrece es el que más se adapta al buyer persona? <br>-¿Se puede crear o adaptar un producto o servicio a las necesidades del cliente?")
       .row.justify-content-center(titulo="Póngase en la piel del cliente")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Al definir y redactar el retrato del #[em buyer] persona hay que incluir sus preocupaciones o pensamientos que la empresa podría solucionar. Algunas ideas pueden ser:
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img14.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img14.svg' alt="Muestra texto:<br>-No consigo adelgazar<br>-No encuentro un buen profesor de inglés para mi<br>-Mi ecommerce no está bien posicionado ")
       .row.justify-content-center(titulo="Define las expectativas sobre el producto del <em>buyer</em> persona")
         .col-lg-7.order-lg-1.order-2
           p Si el cliente ideal pudiera formular alguna duda o queja sobre el producto, ¿cuál sería?, ¿el precio?, ¿la calidad?

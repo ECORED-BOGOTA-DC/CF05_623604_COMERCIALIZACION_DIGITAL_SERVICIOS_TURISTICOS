@@ -214,21 +214,21 @@
     .BGM13.px-md-5.px-4.mb-5(data-aos="fade-right")
       .row.justify-content-center
         .col-lg-6.mb-4
-          img(src='@/assets/curso/tema1/img13.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img13.svg' alt="Muestra ordenes dadas por el celebro conel siguiente texto:<br>-Detectar necesidades.<br>-Manufacturar sus productos.<br>-Diseñar estrategias de mercadeo, focalizadas en indicarle al cerebro quetome la decision a su favor.")
         .col-12
           p.mb-5 Esto convierte el cerebro del cliente, concretamente su parte más inconsciente, en su principal objetivo de estudio en #[em neuromarketing], ya que cuanto mejor lo conoce más fácil será detectar sus necesidades y manufacturar sus productos para cubrirlas, al tiempo que se diseñan estrategias de mercadeo focalizadas en indicarle al cerebro que tome la decisión a su favor.
     
     .BGM13.px-md-5.px-4.mb-5(data-aos="fade-right")
       .row.justify-content-center
         .col-lg-6
-          img(src='@/assets/curso/tema1/img14.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img14.svg' alt="Muestra texto, Celebro cuando toma <br>¿Como se evalúan?<br>Las recompensas y los riegos<br>¿Como se calculan las posibilidades?")
 
     p.mb-5(data-aos="fade-right") En los últimos tiempos las investigaciones han entregado nuevas evidencias sobre cómo el cerebro humano toma estas decisiones, y se conoce ampliamente cómo se evalúan las recompensas, los riesgos y se calculan las probabilidades, esto ha llevado a poder casi predecir el comportamiento del consumidor y estudiarlo con base en sus fundamentos biológicos básicos.
 
     .BG14.pt-4.mb-5(data-aos="zoom-in")
       .row.justify-content-center
         .col-lg-10
-          img(src='@/assets/curso/tema1/img15.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img15.svg' alt="IImagen con 2 personas con el texto,<br>Se gusta pensar qué se sabe sobre lo que se quiere.<br>Y de forma racional se utiliza la información para comprender.")
 
     p.mb-5(data-aos="fade-right") Desde el rol de consumidores se gusta pensar que se sabe lo que se quiere y que de forma racional se utiliza la información disponible para comprender objetivamente las compras que se realizan.
     
@@ -328,7 +328,7 @@
     .row.justify-content-center.mb-5
       .col
         .tabla-a.color-secundario
-          table(alt="Texto alternativo tabla")
+          table(alt="El Customer Journey Map es una técnica de Design Thinking, en la que se plasma gráficamente la experiencia de cliente en cada punto de contacto que una empresa tiene a su disposición.")
             thead(style="border-color: transparent")
               tr(data-aos="fade-right")
                 th(style="background-color: #FFF; width: 25%;").text-end Costumer<br>Journey<br>Map
@@ -409,7 +409,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img26.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img26.svg' alt="Muestra Gráfico de embudo estándar  los textos se mencionan en la parte inferior de la misma.")
     
     p.mb-5(data-aos="fade-right") Los #[em funnels] de conversión como el expuesto en el ejemplo se basan en el modelo AIDA (#[strong Atención, Interés, Deseo y Acción]), que ilustra el proceso y establece una secuencia para optimizar los contenidos de las páginas que soportan cada una las fases.
 
