@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 Mercadeo digital
@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img01.jpg')})`}" alt="Imagen decorativa" data-aos="fade-right"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 Son todos los esfuerzos que realiza una empresa o un profesional en plataformas online, con el fin de capturar la atención de las personas y convertirlos en clientes potenciales, así nace la necesidad de estructurar un plan de mercadeo digital. Debe estar acorde con las tendencias del mercado y la visión estratégica del negocio, así como alineado a los patrones de conducta de los consumidores, con estos tres aspectos, permitirá tener una ventaja competitiva y comparativa frente al mercado.
+        p.mb-0 Son todos los esfuerzos que realiza una empresa o un profesional en plataformas #[em online], con el fin de capturar la atención de las personas y convertirlos en clientes potenciales, así nace la necesidad de estructurar un plan de mercadeo digital. Debe estar acorde con las tendencias del mercado y la visión estratégica del negocio, así como alineado a los patrones de conducta de los consumidores, con estos tres aspectos, permitirá tener una ventaja competitiva y comparativa frente al mercado.
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -30,8 +30,8 @@
                     span Descargar
                     i.fas.fa-link
 
-    p En ese sentido, el #[em marketing] digital está orientado a establecer una relación directa entre la empresa y el consumidor mediante el uso de los diferentes canales de comunicación, para lograr dicho objetivo esta disciplina, se apoya en diferentes técnicas para que el usuario de Internet tenga la información justa y necesaria de la empresa. 
-    p En ese sentido, el #[em inbound] y el #[em outbound], a continuación, se explica en qué consiste cada una:
+    p(data-aos="fade-right") En ese sentido, el #[em marketing] digital está orientado a establecer una relación directa entre la empresa y el consumidor mediante el uso de los diferentes canales de comunicación, para lograr dicho objetivo esta disciplina, se apoya en diferentes técnicas para que el usuario de Internet tenga la información justa y necesaria de la empresa. 
+    p.mb-5(data-aos="fade-right") En ese sentido, el #[em inbound] y el #[em outbound], a continuación, se explica en qué consiste cada una:
 
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.BG02.p-5(data-aos="fade-right")
@@ -47,7 +47,7 @@
         h3 #[em Outbound] de #[em marketing]
         p.mb-0 El objetivo es encontrar usuarios y lanzarles mensajes, interrumpiendo de alguna forma su navegación para que conozcan el mensaje.
 
-    p.mb-5 Si se quieren tomar decisiones basadas en los datos obtenidos de campañas publicitarias realizadas en medios como televisión, radio, medios impresos, patrocinios, activaciones de marca, entre otros; en el que no se tiene un dato exacto de cuántas personas vieron y se sintieron identificadas con el producto o servicio, y que solo para obtener esta información es necesaria la contratación de una agencia de investigación de mercados, la cual puede ser costosa y demorada en brindar #[em insights], caso contrario con el #[em marketing] digital, que ofrece beneficios como:
+    p.mb-5(data-aos="fade-right") Si se quieren tomar decisiones basadas en los datos obtenidos de campañas publicitarias realizadas en medios como televisión, radio, medios impresos, patrocinios, activaciones de marca, entre otros; en el que no se tiene un dato exacto de cuántas personas vieron y se sintieron identificadas con el producto o servicio, y que solo para obtener esta información es necesaria la contratación de una agencia de investigación de mercados, la cual puede ser costosa y demorada en brindar #[em insights], caso contrario con el #[em marketing] digital, que ofrece beneficios como:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.order-lg-1.order-2
@@ -86,7 +86,7 @@
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema1/img05.jpg' alt="Imagen decorativa")
       .col-lg-6
-        p Con el #[em marketing] digital las empresas poseen más herramientas de información y comunicación que permiten interactuar con sus clientes meta, tener una conversación fluida, además que proporciona a los consumidores más control sobre la naturaleza y disposición en recibir y enviar mensajes, así los encargados del #[em marketing] recolectan información detallada de sus clientes y vigilan de cerca sus necesidades, de esta forma implementan de mejor manera diferentes estrategias como:
+        p(data-aos="fade-left") Con el #[em marketing] digital, las empresas poseen más herramientas de información y comunicación que permiten interactuar con sus clientes meta, tener una conversación fluida, además que proporciona a los consumidores más control sobre la naturaleza y disposición en recibir y enviar mensajes, así los encargados del #[em marketing] recolectan información detallada de sus clientes y vigilan de cerca sus necesidades, de esta forma implementan de mejor manera diferentes estrategias como:
         .BGS04.p-3(data-aos="fade-left")
           ul.lista-ul--color.mb-0
             li
@@ -105,14 +105,14 @@
               i.fas.fa-check-circle(style="color: #EB6F2D;")
               p.mb-0 Identificar #[em influencer marketing].
 
-    p.mb-5 Para lo cual, es necesario implementar prácticas como el #[em neuromarketing], permitiendo identificar de mejor manera hábitos, actitudes y comportamientos de consumo frente a los bienes y servicios de la empresa, para así recopilar, analizar y transformar la información en #[em insights] para la toma de decisiones, crear productos y servicios adaptados a las necesidades del #[em target].
+    p.mb-5(data-aos="fade-right") Para lo cual, es necesario implementar prácticas como el #[em neuromarketing], permitiendo identificar de mejor manera hábitos, actitudes y comportamientos de consumo frente a los bienes y servicios de la empresa, para así recopilar, analizar y transformar la información en #[em insights] para la toma de decisiones, crear productos y servicios adaptados a las necesidades del #[em target].
 
     .BG06.p-4.mb-5(data-aos="flip-up")
       p.mb-0 Sin embargo, para llevar a cabo un plan de #[em marketing] digital es indispensable conocer el presupuesto, pues esto permitirá tener un margen y control sobre las acciones que debe realizar para conseguir los objetivos, así como el retorno esperado de esa inversión, de esta forma se logra una buena ejecución financiera de la empresa o de finanzas personales, garantizar procesos transparentes y claros a la hora de proponer y ejecutar un plan de mercadeo digital.
     
-    p.mb-5 Con el siguiente video reflexione sobre las diferentes funciones del #[em marketing] digital:
+    p.mb-5(data-aos="fade-right") Con el siguiente video reflexione sobre las diferentes funciones del #[em marketing] digital:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-10
         .BGR01.p-4(data-aos="flip-up")
           .row.justify-content-center.align-items-center
@@ -146,7 +146,7 @@
     .BG05.p-4.mb-5(data-aos="flip-up")
       p.mb-0 Pues bien, ya conoció cómo se estructura un plan de mercadeo tradicional y para poder entender las nuevas dinámicas es importante reconocer cómo funciona el #[em marketing] digital, para poder hacer un contraste entre los dos tipos de planes y tomar la mejor decisión para la comercialización del turismo.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         p En este sentido, independientemente de las peculiaridades del mundo digital, cabe resaltar la similitud entre canales como el #[em emailing] y el tradicional correo directo que se recibe en el buzón, al igual que sucede entre los anuncios patrocinados en los buscadores y los anuncios por palabras de los diarios en papel o los anuncios en YouTube y los spots televisivos, que se complementan e influencian entre sí. Además de contemplar estos parecidos razonables, también es relevante destacar que existen expresiones propias del mercadeo digital que no tienen antecedentes directos en los medios tradicionales, como pueden ser los comparadores de precios, el posicionamiento orgánico en buscadores o la difusión viral de contenidos en redes sociales.
         .BG06.p-4
@@ -165,11 +165,11 @@
         p La neurociencia es en líneas muy generales el estudio del desarrollo y funcionamiento del sistema nervioso, y entre otros temas estudia el cerebro en relación con el comportamiento y sus funciones cognitivas. Es esta parte la que le interesa al mercadeo, ya que por medio del #[em neuromarketing] trata de explicar el proceso de toma de decisiones de los consumidores.
         p.mb-0 De esta forma, poder analizar los motivos que llevan a un cliente a elegir un determinado producto o marca, partiendo del conocimiento del cerebro humano. Para ello, utiliza técnicas objetivas que sirven para preguntar directamente al cerebro en qué basa sus preferencias.
 
-    p.mb-5 En este aparte se pretende mostrar las bases del #[em neuromarketing], partiendo de conocimientos anatómicos, básicos y así entender mejor el proceso de toma de decisiones cerebrales, orientando estos conocimientos a las necesidades y exigencias de los clientes.
+    p.mb-5(data-aos="fade-right") En este aparte se pretende mostrar las bases del #[em neuromarketing], partiendo de conocimientos anatómicos, básicos y así entender mejor el proceso de toma de decisiones cerebrales, orientando estos conocimientos a las necesidades y exigencias de los clientes.
 
-    .BGIMG01.px-md-5.px-4.mb-5
+    .BGIMG01.px-md-5.px-4.mb-5(data-aos="zoom-in")
       .row.justify-content-center
-        .col-lg-6(data-aos="zoom-in")
+        .col-lg-6
           ImagenInfografica.color-primario
             template(v-slot:imagen)
               figure
@@ -193,10 +193,10 @@
     .row.justify-content-start.mb-5
       .col-auto(data-aos="fade-right")
         .BGT03.p-2
-          .h4.mx-3.mb-0 <em>Conceptualización del Neuromarketing</em>
+          .h4.mx-3.mb-0 <em>Conceptualización del neuromarketing</em>
     
-    p El #[em neuromarketing] es una disciplina relativamente nueva, que como se mencionó estudia la toma de decisiones de los consumidores, se centra en el estudio de las decisiones asociadas al mercadeo, y en el cerebro como elemento fundamental de esa toma de decisiones.
-    p.mb-5 Si lo piensa un momento, en el día a día los humanos están constantemente tomando decisiones. ¿Dónde ir?, ¿qué comer?, ¿con quién hablar? la mayoría de estas decisiones se toman de manera inconsciente y son ordenadas por el cerebro, el cual evalúa todas las variables que tiene para emitir una decisión que define el patrón de conducta. Esos patrones de conducta son los que a la postre determinan que un cliente potencial elija su producto o el de la competencia.
+    p(data-aos="fade-right") El #[em neuromarketing] es una disciplina relativamente nueva, que como se mencionó estudia la toma de decisiones de los consumidores, se centra en el estudio de las decisiones asociadas al mercadeo, y en el cerebro como elemento fundamental de esa toma de decisiones.
+    p.mb-5(data-aos="fade-right") Si lo piensa un momento, en e, la mayoría de estas decisiones se toman de manera inconsciente y son ordenadas por el cerebro, el cual evalúa todas las variables que tiene para emitir una decisión que define el patrón de conducta. Esos patrones de conducta son los que a la postre determinan que un cliente potencial elija su producto o el de la competencia.
 
     .row.justify-content-center.mb-5
       .col-auto(data-aos="fade-right")
@@ -211,26 +211,26 @@
       .col-lg-4.col-md-8(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img12.png' alt="¿Con quién hablar?")
     
-    .BGM13.px-md-5.px-4.mb-5
+    .BGM13.px-md-5.px-4.mb-5(data-aos="fade-right")
       .row.justify-content-center
-        .col-lg-6.mb-4(data-aos="fade-right")
+        .col-lg-6.mb-4
           img(src='@/assets/curso/tema1/img13.svg' alt="Imagen decorativa")
         .col-12
           p.mb-5 Esto convierte el cerebro del cliente, concretamente su parte más inconsciente, en su principal objetivo de estudio en #[em neuromarketing], ya que cuanto mejor lo conoce más fácil será detectar sus necesidades y manufacturar sus productos para cubrirlas, al tiempo que se diseñan estrategias de mercadeo focalizadas en indicarle al cerebro que tome la decisión a su favor.
     
-    .BGM13.px-md-5.px-4.mb-5
+    .BGM13.px-md-5.px-4.mb-5(data-aos="fade-right")
       .row.justify-content-center
-        .col-lg-6(data-aos="fade-right")
+        .col-lg-6
           img(src='@/assets/curso/tema1/img14.svg' alt="Imagen decorativa")
 
-    p.mb-5 En los últimos tiempos las investigaciones han entregado nuevas evidencias sobre cómo el cerebro humano toma estas decisiones, y se conoce ampliamente cómo se evalúan las recompensas, los riesgos y se calculan las probabilidades, esto ha llevado a poder casi predecir el comportamiento del consumidor y estudiarlo con base en sus fundamentos biológicos básicos.
+    p.mb-5(data-aos="fade-right") En los últimos tiempos las investigaciones han entregado nuevas evidencias sobre cómo el cerebro humano toma estas decisiones, y se conoce ampliamente cómo se evalúan las recompensas, los riesgos y se calculan las probabilidades, esto ha llevado a poder casi predecir el comportamiento del consumidor y estudiarlo con base en sus fundamentos biológicos básicos.
 
     .BG14.pt-4.mb-5(data-aos="zoom-in")
       .row.justify-content-center
         .col-lg-10
           img(src='@/assets/curso/tema1/img15.svg' alt="Imagen decorativa")
 
-    p.mb-5 Desde el rol de consumidores se gusta pensar que se sabe lo que se quiere y que de forma racional se utiliza la información disponible para comprender objetivamente las compras que se realizan.
+    p.mb-5(data-aos="fade-right") Desde el rol de consumidores se gusta pensar que se sabe lo que se quiere y que de forma racional se utiliza la información disponible para comprender objetivamente las compras que se realizan.
     
     .row.justify-content-center.mb-5
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-right")
@@ -240,7 +240,7 @@
         img(src='@/assets/curso/tema1/img17.png' alt="Imagen decorativa")
         .h4.mx-4.text-center.mb-0 Tomar decisiones ilógicas
 
-    p.mb-5 Sin embargo, cada vez más se sabe que esto no es así y que los consumidores aun con la información disponible normalmente no comprenden los riesgos a los que se someten y mucho menos tienen claros los objetivos.
+    p.mb-5(data-aos="fade-right") Sin embargo, cada vez más se sabe que esto no es así y que los consumidores, aun con la información disponible normalmente no comprenden los riesgos a los que se someten y mucho menos tienen claros los objetivos.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
@@ -285,10 +285,10 @@
         .BGT03.p-2
           .h4.mx-3.mb-0 <em>Evolución histórica del neuromarketing</em>
     
-    p Seguramente cuando se habla de #[em neuromarketing] se tendrá la percepción de tratar con una disciplina emergente; pero si lo analiza en detalle, este concepto se ha utilizado desde que el ser humano usaba el trueque. 
-    p.mb-5 Revise a continuación una breve evolución histórica del #[em Neuromarketing].
+    p(data-aos="fade-right") Seguramente cuando se habla de #[em neuromarketing] se tendrá la percepción de tratar con una disciplina emergente; pero si lo analiza en detalle, este concepto se ha utilizado desde que el ser humano usaba el trueque. 
+    p.mb-5(data-aos="fade-right") Revise a continuación una breve evolución histórica del #[em neuromarketing].
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-10(data-aos="zoom-in")
         .BGIMG02.p-4
           LineaTiempoB.color-acento-botones(:datos="datosLineaTiempoB")
@@ -297,7 +297,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3 Auditoría de activos digitales
     
-    p.mb-5 En este punto conocerá el planeamiento estratégico de la empresa, el modelo de negocio y se ha garantizado la coherencia del planteamiento general de la marca con los objetivos de negocio. También se ha revisado el concepto de #[em neuromarketing], por ende, el siguiente paso a seguir, es definir la situación actual en términos del entorno digital propiamente dicho. Para ello, se partirá de una auditoría de activos digitales en la que se analizará la situación de la competencia, el ciclo de vida de los clientes y los puntos de contacto en los que estos interactúan con la empresa.
+    p.mb-5(data-aos="fade-right") En este punto conocerá el planeamiento estratégico de la empresa, el modelo de negocio y se ha garantizado la coherencia del planteamiento general de la marca con los objetivos de negocio. También se ha revisado el concepto de #[em neuromarketing], por ende, el siguiente paso a seguir, es definir la situación actual en términos del entorno digital propiamente dicho. Para ello, se partirá de una auditoría de activos digitales en la que se analizará la situación de la competencia, el ciclo de vida de los clientes y los puntos de contacto en los que estos interactúan con la empresa.
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -306,7 +306,7 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0      En el plan de mercadeo digital se deben documentar los llamados activos digitales con los que cuenta la empresa: #[em web] corporativa, #[em blog], perfiles en redes sociales, aplicaciones móviles, etc. Tras este inventario se procederá a desglosar las funcionalidades que integran a cada uno (por ejemplo, asistente de compra, #[em chat], autoservicio para la contratación de nuevos productos, catálogo digital, tienda, etc.) y valorar la intensidad con que usan los clientes cada una de estas funcionalidades y su satisfacción al usarlas.
 
-    .BG15.p-4.mb-5(data-aos="flip-up")
+    .BG15.p-4.mb-4(data-aos="flip-up")
       .row.justify-content-end.align-items-center
         .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
           p Esta tarea permitirá ir perfilando el #[em Customer Journey Map] y los diferentes puntos de contacto que lo integran.
@@ -328,9 +328,9 @@
     .row.justify-content-center.mb-5
       .col
         .tabla-a.color-secundario
-          table(data-aos="zoom-in"  alt="Texto alternativo tabla")
+          table(alt="Texto alternativo tabla")
             thead(style="border-color: transparent")
-              tr
+              tr(data-aos="fade-right")
                 th(style="background-color: #FFF; width: 25%;").text-end Costumer<br>Journey<br>Map
                 th(style="background-color: #3D672F; width: 15%;").text-white Awareness<br>(conciencia)
                 th(style="background-color: #3D672F; width: 15%;").text-white Consideration<br>(consideración)
@@ -338,42 +338,42 @@
                 th(style="background-color: #3D672F; width: 15%;").text-white Service<br>(servicio)
                 th(style="background-color: #3D672F; width: 15%;").text-white Retention<br>(retención)
             tbody
-              tr
+              tr(data-aos="fade-right")
                 th(style="background-color: #617A0B;").text-white Costumer Goals<br>(objetivos del cliente)
                 td
                 td
                 td
                 td
                 td
-              tr
+              tr(data-aos="fade-right")
                 th(style="background-color: #617A0B;").text-white Costumer Actions<br>(acciones del cliente)
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
-              tr
+              tr(data-aos="fade-right")
                 th(style="background-color: #617A0B;").text-white Touchpoints &amp; channels<br>(canales y puntos de contacto)
                 td
                 td
                 td
                 td
                 td
-              tr
+              tr(data-aos="fade-right")
                 th(style="background-color: #617A0B;").text-white Customers Thoughts/Emotions<br>(pensamientos y emociones del cliente)
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
-              tr
+              tr(data-aos="fade-right")
                 th(style="background-color: #617A0B;").text-white Pain points<br>(puntos sensibles)
                 td
                 td
                 td
                 td
                 td
-              tr
+              tr(data-aos="fade-right")
                 th(style="background-color: #617A0B;").text-white Opportunities to Improve<br>(oportunidades de mejora)
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
@@ -381,10 +381,10 @@
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
 
-    p La clave de esta herramienta es dotarla de un enfoque emocional que refleje la reacción subjetiva del cliente al relacionarse con la empresa. Y su utilidad es dar coherencia a todos los puntos de contacto y ofrecer una respuesta unificada que maximice la satisfacción global del cliente y reduzca los puntos de fricción en los que pueda sentirse perdido o frustrado. Realizar este análisis para diferentes segmentos puede ayudar a incrementar el valor que se ofrece a los clientes (y, por tanto, a incrementar los ingresos y mejorar la rentabilidad), detectando nuevos nichos y oportunidades de negocio desatendidos por la competencia.
-    p.mb-5 Para elaborar correctamente el #[em Customer Journey Map] se necesita tener muy claro el perfil del cliente. Dado que se habla de experiencias y percepciones subjetivas es fundamental precisar segmentos de clientes concretos. 
+    p(data-aos="fade-right") La clave de esta herramienta es dotarla de un enfoque emocional que refleje la reacción subjetiva del cliente al relacionarse con la empresa. Y su utilidad es dar coherencia a todos los puntos de contacto y ofrecer una respuesta unificada que maximice la satisfacción global del cliente y reduzca los puntos de fricción en los que pueda sentirse perdido o frustrado. Realizar este análisis para diferentes segmentos puede ayudar a incrementar el valor que se ofrece a los clientes (y, por tanto, a incrementar los ingresos y mejorar la rentabilidad), detectando nuevos nichos y oportunidades de negocio desatendidos por la competencia.
+    p.mb-5(data-aos="fade-right") Para elaborar correctamente el #[em Customer Journey Map] se necesita tener muy claro el perfil del cliente. Dado que se habla de experiencias y percepciones subjetivas es fundamental precisar segmentos de clientes concretos. 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-10
         .BGR01.p-4(data-aos="flip-up")
           .row.justify-content-center.align-items-center
@@ -404,14 +404,14 @@
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.5 Embudo de ventas
     
-    p.mb-5 En los negocios #[em online] es muy común el uso de modelos de conversión en embudo, también conocidos como #[em funnels]. Aunque las tipologías de estos varían en función del tipo de producto y modelo de negocio se puede ilustrar el concepto definiendo un embudo estándar en 8 pasos para entender las etapas en las que se divide una conversión:
+    p.mb-5(data-aos="fade-right") En los negocios #[em online] es muy común el uso de modelos de conversión en embudo, también conocidos como #[em funnels]. Aunque las tipologías de estos varían en función del tipo de producto y modelo de negocio se puede ilustrar el concepto definiendo un embudo estándar en 8 pasos para entender las etapas en las que se divide una conversión:
 
     .row.justify-content-center.mb-5
       .col-lg-8
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/img26.svg' alt="Imagen decorativa")
     
-    p.mb-5 Los #[em funnels] de conversión como el expuesto en el ejemplo se basan en el modelo AIDA (#[strong Atención, Interés, Deseo y Acción]), que ilustra el proceso y establece una secuencia para optimizar los contenidos de las páginas que soportan cada una las fases.
+    p.mb-5(data-aos="fade-right") Los #[em funnels] de conversión como el expuesto en el ejemplo se basan en el modelo AIDA (#[strong Atención, Interés, Deseo y Acción]), que ilustra el proceso y establece una secuencia para optimizar los contenidos de las páginas que soportan cada una las fases.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
@@ -421,8 +421,8 @@
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img27.jpg' alt="Imagen decorativa")
 
-    p En esencia en el mundo digital el uso de los #[em funnel] se concentra en la producción de contenidos que despliegan el argumento de venta, adaptándolo a las mencionadas etapas y a los diferentes canales de captación, dirigiendo a nuestro público objetivo de un nivel al siguiente, alimentando el embudo y captando nuevos clientes.
-    p.mb-5 En paralelo, el modelo AIDA puede complementarse y enriquecerse aplicando otro acrónimo que ayudará a concretar las motivaciones de compra de cada cliente: MICASO. A continuación, se enuncian las diferentes motivaciones que lo integran:
+    p(data-aos="fade-right") En esencia en el mundo digital el uso de los #[em funnel] se concentra en la producción de contenidos que despliegan el argumento de venta, adaptándolo a las mencionadas etapas y a los diferentes canales de captación, dirigiendo a nuestro público objetivo de un nivel al siguiente, alimentando el embudo y captando nuevos clientes.
+    p.mb-5(data-aos="fade-right") En paralelo, el modelo AIDA puede complementarse y enriquecerse aplicando otro acrónimo que ayudará a concretar las motivaciones de compra de cada cliente: MICASO. A continuación, se enuncian las diferentes motivaciones que lo integran:
 
     SlyderF.mb-5(columnas="col-xl-4 col-lg-6" data-aos="zoom-in")
       .tarjeta.BG16.p-4
@@ -462,7 +462,7 @@
         h4.text-center Orgullo
         p.text-center.mb-0 Love marks, estatus, prestigio, emulación, lujo.
 
-    p.mb-5 De cara al plan de mercadeo es prudente mencionar que en cada caso estas motivaciones influirán en mayor o menor grado en la decisión de compra. Esto permite configurar un perfil específico de cliente que suele denominarse metafóricamente como “la llave” del cliente y puede representarse gráficamente otorgando un valor de 1 a 5 a cada una de las variables en función de su influencia en las decisiones de compra de un cliente concreto.
+    p.mb-5(data-aos="fade-right") De cara al plan de mercadeo es prudente mencionar que en cada caso estas motivaciones influirán en mayor o menor grado en la decisión de compra. Esto permite configurar un perfil específico de cliente que suele denominarse metafóricamente como “la llave” del cliente y puede representarse gráficamente otorgando un valor de 1 a 5 a cada una de las variables en función de su influencia en las decisiones de compra de un cliente concreto.
 
     .bloque-texto-g.color-acento-contenido.BG01.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -471,31 +471,31 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 Al desarrollar una matriz con base en ambos modelos (AIDA y MICASO) que integre las etapas del #[em funnel] de conversión y las motivaciones del cliente, se logrará el insumo necesario para que la creación de contenidos y mensajes sean lo suficientemente personalizados para optimizar la experiencia del cliente y maximizar las conversiones.
     
-    p Sin embargo, la proliferación de dispositivos y de los múltiples canales imperantes hoy en día hacen que en muchas oportunidades el usuario cuente con tantas opciones que es posible afirmar que no existe un único #[em funnel] posible o quizá no haya suficiente información para elaborarlo. Este fenómeno ha impulsado la adopción del mapa de ciclo de vida del cliente o #[em Customer Journey Map] como herramienta para superar las limitaciones del #[em funnel] de conversión o incluso como complemento y paso previo que ayude a visualizar todas las interacciones importantes que configuran microconversiones necesarias para llegar a la venta (macroconversión), desarrollando #[em funnels] con mayores garantías.
-    p.mb-5 La mencionada multicanalidad, junto a los nuevos hábitos de compra desarrollados por los consumidores configuran nuevos perfiles de clientes, siendo los patrones más conocidos:
+    p(data-aos="fade-right") Sin embargo, la proliferación de dispositivos y de los múltiples canales imperantes hoy en día hacen que en muchas oportunidades el usuario cuente con tantas opciones que es posible afirmar que no existe un único #[em funnel] posible o quizá no haya suficiente información para elaborarlo. Este fenómeno ha impulsado la adopción del mapa de ciclo de vida del cliente o #[em Customer Journey Map] como herramienta para superar las limitaciones del #[em funnel] de conversión o incluso como complemento y paso previo que ayude a visualizar todas las interacciones importantes que configuran microconversiones necesarias para llegar a la venta (macroconversión), desarrollando #[em funnels] con mayores garantías.
+    p.mb-5(data-aos="fade-right") La mencionada multicanalidad, junto a los nuevos hábitos de compra desarrollados por los consumidores configuran nuevos perfiles de clientes, siendo los patrones más conocidos:
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-right")
-        .BGS14.hg-01.p-4
+        .BGS14.h-100.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-7
               img(src='@/assets/curso/tema1/img35.svg' alt='Imagen decorativa')
-          h4.text-center ROPO (Research Online, Purchase Offline)
+          h4.text-center ROPO (#[em Research Online, Purchase Offline])
           p.text-center.mb-0 Investiga las características técnicas y atributos diferenciales del producto en Internet para adquirirlo posteriormente en una tienda física.
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="flip-up")
-        .BGS14.hg-01.p-4
+        .BGS14.h-100.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-7
               img(src='@/assets/curso/tema1/img36.svg' alt='Imagen decorativa')
           h4.text-center Showroomer
-          p.text-center.mb-0 Investiga la experiencia de uso del producto en un punto de venta físico y después busca el punto de venta más económico en el canal online.
-      .col-lg-4.col-md-8(data-aos="fade-left")
-        .BGS14.hg-01.p-4
+          p.text-center.mb-0 Investiga la experiencia de uso del producto en un punto de venta físico y después busca el punto de venta más económico en el canal #[em online].
+      .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-left")
+        .BGS14.h-100.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-7
               img(src='@/assets/curso/tema1/img37.svg' alt='Imagen decorativa')
           h4.text-center RTB (Research, Testing and Buying)
-          p.text-center.mb-0 Investiga online, prueba en tiendas físicas y compra online.
+          p.text-center.mb-0 Investiga #[em online], prueba en tiendas físicas y compra #[em online].
     
     p Para satisfacer estos nuevos perfiles de clientes la experiencia de compra debe satisfacer todas sus expectativas, configurándose como un proceso abierto donde sea el propio cliente quien decida en qué canal dará el siguiente paso en función de sus preferencias y conveniencia.
 

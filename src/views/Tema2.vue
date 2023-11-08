@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
       h1 Segmentación
@@ -14,9 +14,9 @@
         .BG06.p-4.mb-4
           p.mb-0 Es el proceso de dividir al público objetivo en fragmentos que cumplan con unas características definidas o dicho de otra dividir un mercado de característica heterogénea, en subáreas homogéneas, que para fines de mercadeo sean susceptibles de estrategias de comunicación focalizadas, para generar en ellos una reacción hacia la marca. 
         p Se ha hecho referencia con anterioridad a la importancia de conocer a la audiencia y dividirla en grupos homogéneos y de esta forma, desarrollar una clasificación de perfiles de usuario.
-        p.mb-0 Al desarrollar este apartado del Plan de mercadeo digital se abordarán los distintos públicos y segmentos, acorde a sus necesidades generales, para dar soluciones particulares en busca de satisfacer las demandas de cada grupo. 
+        p.mb-0 Al desarrollar este apartado del plan de mercadeo digital se abordarán los distintos públicos y segmentos, acorde a sus necesidades generales, para dar soluciones particulares en busca de satisfacer las demandas de cada grupo. 
 
-    p.mb-5 Existen varias formas de dividir estos grupos, una de las más habituales suele tener en cuenta los siguientes criterios:
+    p.mb-5(data-aos="fade-right") Existen varias formas de dividir estos grupos, una de las más habituales suele tener en cuenta los siguientes criterios:
 
     .BGIMG01.px-md-5.px-4.mb-5
       .row.justify-content-center.mb-5
@@ -24,9 +24,9 @@
           figure(data-aos="zoom-in")
             img(src='@/assets/curso/tema2/img02.svg' alt="Imagen decorativa")
 
-    p.mb-5 Al iniciar la fase de segmentación es recomendable formular preguntas que ayuden con la tarea. Vea algunos ejemplos:
+    p.mb-5(data-aos="fade-right") Al iniciar la fase de segmentación es recomendable formular preguntas que ayuden con la tarea. Vea algunos ejemplos:
 
-    .BGIMG03.p-4.mb-5(data-aos="zoom-in")
+    .BGIMG03.p-4.mb-4(data-aos="zoom-in")
       SlyderA(tipo="b")
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
@@ -66,7 +66,7 @@
                 | Audiencias.
               li
                 i.fas.fa-check-circle(style="color: #EB6F2D;")
-                | Prospectos (leads).
+                p.mb-0 Prospectos (#[em leads]).
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema2/img04.png' alt="Imagen decorativa")
         .row.justify-content-center
@@ -120,7 +120,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2 ¿Qué debo segmentar?
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema2/img07.jpg' alt="Imagen decorativa")
       .col-lg-6(data-aos="fade-left") 
@@ -171,7 +171,7 @@
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema2/img08.jpg' alt="Imagen decorativa")
 
-    p Estas líneas principales o acciones darán las condiciones para una efectiva segmentación. Posteriormente como en cualquier proceso se establecen los objetivos de la segmentación, es decir, qué quiere conseguir, esto lo contesta en la pregunta (¿para qué segmentar?). No olvide los pasos para establecer correctamente los objetivos.
+    p(data-aos="fade-right") Estas líneas principales o acciones darán las condiciones para una efectiva segmentación. Posteriormente como en cualquier proceso se establecen los objetivos de la segmentación, es decir, qué quiere conseguir, esto lo contesta en la pregunta (¿para qué segmentar?). No olvide los pasos para establecer correctamente los objetivos.
     
     .BG06.p-4.mb-4(data-aos="flip-up")
       p.mb-0 Con estos pasos recorridos es hora de plasmarlos en un documento escrito, este documento se conoce en el argot del mercadeo como #[em brief] o #[em briefing] y en él se recoge toda la información de la segmentación que se va a realizar, incluyendo una descripción del negocio, un tiempo, un presupuesto, los responsables de cada acción. Así podrá realizar correctamente este proceso.

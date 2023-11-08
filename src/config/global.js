@@ -140,7 +140,7 @@ export default {
           },
           {
             numero: '4.2',
-            titulo: 'SEM - Search Engine Marketing',
+            titulo: 'SEM - Search Engine <em>Marketing</em>',
             hash: 't_4_2',
           },
           {
@@ -208,10 +208,10 @@ export default {
     {
       tema: 'Los sitemaps',
       referencia:
-        'ICANN. (2010). Guía para principiantes para nombres de dominio. ICANN.',
+        'ICANN (2023). Guía del Usuario del Portal de Servicios de Nombres para Registros.',
       tipo: 'Libro digital',
       link:
-        'https://www.icann.org/resources/files/domain-names-beginners-guide-2010-12-06-es',
+        'https://www.icann.org/es/system/files/files/nsp-registries-user-guide-13jul23-es.pdf',
     },
     {
       tema: 'Evolución histórica del neuromarketing',

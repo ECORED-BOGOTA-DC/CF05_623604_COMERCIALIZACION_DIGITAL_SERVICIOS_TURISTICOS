@@ -2,12 +2,12 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
       h1 #[em Buyer] persona
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema3/img01.jpg' alt="Imagen decorativa")
       .col-lg-6(data-aos="fade-left")
@@ -18,7 +18,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 Definición de #[em buyer] persona
     
-    p.mb-5 Hay múltiples definiciones de este concepto, pero la más interesante es la que propone Siqueira, en el #[em blog] de RD Station, y que dice “#[em buyer] persona es la representación ficticia de tu cliente ideal. Está basada en datos reales sobre el comportamiento y las características demográficas de tus clientes, así como en una creación de sus historias personales, motivaciones, objetivos, retos y preocupaciones” (Siqueira, 2021).
+    p.mb-5(data-aos="fade-right") Hay múltiples definiciones de este concepto, pero la más interesante es la que propone Siqueira, en el #[em blog] de RD Station, y que dice “#[em buyer] persona es la representación ficticia de tu cliente ideal. Está basada en datos reales sobre el comportamiento y las características demográficas de tus clientes, así como en una creación de sus historias personales, motivaciones, objetivos, retos y preocupaciones” (Siqueira, 2021).
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -36,13 +36,13 @@
                     span Ingresar
                     i.fas.fa-link
     
-    p.mb-5 De igual forma, se hace relevante en este punto hacer diferencia entre #[em buyer] persona y público objetivo. Estos dos términos de mercadeo suelen confundirse muy a menudo, pero no son lo mismo. Vea por qué en un ejemplo.
+    p.mb-5(data-aos="fade-right") De igual forma, se hace relevante en este punto hacer diferencia entre #[em buyer] persona y público objetivo. Estos dos términos de mercadeo suelen confundirse muy a menudo, pero no son lo mismo. Vea por qué en un ejemplo.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-5.mb-lg-0.mb-4.zindex-1.px-4(data-aos="fade-right")
         .arrow-down-a.BGS06.p-4
           .h3.text-center.mx-5.mb-0 Público objetivo
-        .BGS17.hg-02.p-xl-5.p-4
+        .BGS17.h-100.p-xl-5.p-4
           p Hombres y mujeres.
           p #[strong Edad]: 25 a 60 años.
           p Solteros.
@@ -58,7 +58,7 @@
       .col-lg-5.zindex-2.px-4(data-aos="fade-left")
         .arrow-down-a.BGS10.p-4
           .h3.text-center.text-white.mx-5.mb-0 #[em Buyer] persona
-        .BGS17.hg-02.p-xl-5.p-4
+        .BGS17.h-100.p-xl-5.p-4
           p Pedro tiene 30 años
           p #[strong Profesión]: médico
           p #[strong Trabaja]: en una clínica cerca de la tienda física. 
@@ -72,31 +72,31 @@
       h2 3.2 Importancia
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-        p La determinación de #[em buyer] persona es fundamental dentro de una estrategia de mercadeo digital y en la creación de contenido. Se establece #[em buyer] persona a fin de enviar el mensaje correcto a los individuos correctos y así generar mayores posibilidades de éxito.
-        De otro lado, si el #[em buyer] persona no está definido puede suceder cosas como: 
+      .col-lg-6.order-lg-1.order-2
+        p(data-aos="fade-right") La determinación de #[em buyer] persona es fundamental dentro de una estrategia de mercadeo digital y en la creación de contenido. Se establece #[em buyer] persona a fin de enviar el mensaje correcto a los individuos correctos y así generar mayores posibilidades de éxito.
+        p(data-aos="fade-right") De otro lado, si el #[em buyer] persona no está definido puede suceder cosas como: 
         ul.lista-ul--color.mb-0
-          li
+          li(data-aos="fade-right")
             i.fas.fa-check-circle(style="color: #EB6F2D;")
             | Enviar mensajes en español a personas que hablan inglés.
-          li
+          li(data-aos="fade-right")
             i.fas.fa-check-circle(style="color: #EB6F2D;")
             | Promocionar cortes de carne a personas vegetarianas.
-          li
+          li(data-aos="fade-right")
             i.fas.fa-check-circle(style="color: #EB6F2D;")
             | Ofrecer un producto pensado a personas del grupo A, a personas del grupo C.
-          li
+          li(data-aos="fade-right")
             i.fas.fa-check-circle(style="color: #EB6F2D;")
             | Postear publicaciones en ubicaciones equivocadas.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img03.jpg' alt="Imagen decorativa")
       
-    p.mb-5 En esencia, al entender y personalizar su #[em buyer] persona se puede comunicar eficazmente el producto correcto, en la ubicación correcta y a los clientes que realmente lo requieren. Esto hará que las campañas sean más efectivas, para ello es importante saber cómo etiquetar imágenes, tal como se presenta en el siguiente recurso:
+    p.mb-5(data-aos="fade-right") En esencia, al entender y personalizar su #[em buyer] persona se puede comunicar eficazmente el producto correcto, en la ubicación correcta y a los clientes que realmente lo requieren. Esto hará que las campañas sean más efectivas, para ello es importante saber cómo etiquetar imágenes, tal como se presenta en el siguiente recurso:
 
-    .BGM13.px-md-5.px-4.mb-5
+    .BGM13.px-md-5.px-4.mb-4(data-aos="zoom-in")
       .row.justify-content-center.align-items-center
         .col-lg-7
-          .tabla-a.color-secundario(data-aos="zoom-in")
+          .tabla-a.color-secundario
             table(alt="Texto alternativo tabla")
               thead(style="border-color: transparent")
                 tr
@@ -161,9 +161,9 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.3 Tipos de #[em buyer] persona
 
-    p.mb-5 Bien, antes de aprender cómo delimitar los #[em buyer] persona es pertinente mencionar que ellos no son siempre los que toman la decisión de compra del producto o servicio y en este sentido, se han identificado tres perfiles que se verán a continuación.         
+    p.mb-5(data-aos="fade-right") Bien, antes de aprender cómo delimitar los #[em buyer] persona es pertinente mencionar que ellos no son siempre los que toman la decisión de compra del producto o servicio y en este sentido, se han identificado tres perfiles que se verán a continuación.         
 
-    TabsA.color-acento-botones.mb-5(data-aos="zoom-in")
+    TabsA.color-acento-botones.mb-4(data-aos="zoom-in")
       .tarjeta.BG18.p-4(titulo="Influenciador")
         .row.justify-content-center
           .col-lg-8.order-lg-1.order-2
@@ -190,10 +190,10 @@
     .row.justify-content-center.mb-5
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema3/img07.svg' alt="Imagen decorativa")
-      .col-lg-6(data-aos="fade-left")
-        p Cuando se define un #[em buyer] persona se está determinando lo que hace y/o piensa un consumidor al momento de enfrentar su necesidad o motivación de compra, y si se parte de la base de que cada persona en su individualidad piensa y actúa de forma diferente, entonces, se puede inferir que definir a ese cliente ideal no será un proceso fácil.
-        .BGS04.p-4
-          p.mb-0 A continuación, se proponen unos pasos posteados en el blog “#[strong We are marketing]”, que permiten construir un #[em buyer] persona de una forma sencilla (Peñalver, 2020).
+      .col-lg-6
+        p(data-aos="fade-left") Cuando se define un #[em buyer] persona se está determinando lo que hace y/o piensa un consumidor al momento de enfrentar su necesidad o motivación de compra, y si se parte de la base de que cada persona en su individualidad piensa y actúa de forma diferente, entonces, se puede inferir que definir a ese cliente ideal no será un proceso fácil.
+        .BGS04.p-4(data-aos="fade-left")
+          p.mb-0 A continuación, se proponen unos pasos posteados en el blog “#[strong #[em We are marketing]]”, que permiten construir un #[em buyer] persona de una forma sencilla (Peñalver, 2020).
 
     AcordionA.mb-5(tipo="b" clase-tarjeta="BGIMG04" data-aos="zoom-in")
       .row.justify-content-center(titulo="Nombrar al <em>buyer</em> persona")
@@ -244,7 +244,7 @@
       .row.justify-content-center(titulo="Define sus datos demográficos")
         .col-lg-7.order-lg-1.order-2
           p Los datos demográficos son un recurso habitual a la hora de crear perfiles en mercadeo. En este apartado deberá incluir datos como la edad, el sexo, la clase social y su ubicación geográfica (¿vive en una gran ciudad o en pueblo?).
-          p.mb-0 Esto resulta de utilidad, por ejemplo, a la hora de hacer segmentaciones para poder cualificar mejor a los leads y hacer estrategias de mercadeo posteriores.
+          p.mb-0 Esto resulta de utilidad, por ejemplo, a la hora de hacer segmentaciones para poder cualificar mejor a los #[em leads] y hacer estrategias de mercadeo posteriores.
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           img(src='@/assets/curso/tema3/img10.svg' alt="Imagen decorativa")
       .row.justify-content-center(titulo="Comportamiento en Internet")
@@ -254,7 +254,7 @@
           img(src='@/assets/curso/tema3/img11.svg' alt="Imagen decorativa")
       .row.justify-content-center(titulo="Define objetivos, retos y sueños")
         .col-lg-7.order-lg-1.order-2
-          p.mb-0 El verdadero valor de este arquetipo de cliente ideal reside en que analiza aspectos que, muchas veces, en los perfiles de mercadeo tradicionales se obvian. Se hablamos, por ejemplo, de los objetivos, preocupaciones, sueños e ilusiones del usuario o consumidor. Estos aspectos son los que permitirán conectar con él y construir un vínculo más fuerte; por lo tanto, debe trabajar sobre ellos y tratar de definirlos al máximo. Para ello, responda estas preguntas:
+          p.mb-0 El verdadero valor de este arquetipo de cliente ideal reside en que analiza aspectos que, muchas veces, en los perfiles de mercadeo tradicionales se obvian. Se hablan, por ejemplo, de los objetivos, preocupaciones, sueños e ilusiones del usuario o consumidor. Estos aspectos son los que permitirán conectar con él y construir un vínculo más fuerte; por lo tanto, debe trabajar sobre ellos y tratar de definirlos al máximo. Para ello, responda estas preguntas:
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           img(src='@/assets/curso/tema3/img12.svg' alt="Imagen decorativa")
       .row.justify-content-center(titulo="Pasa de las preguntas a la acción")
@@ -279,12 +279,12 @@
         .BGT03.p-2
           .h4.mx-3.mb-0 <em>Fuentes y herramientas para ayudar a crear a un #[em buyer] persona</em>
 
-    p.mb-5 Seguramente en este momento, la siguiente pregunta es ¿de dónde se puede obtener la información que se necesita para crear un #[em buyer] persona? Y antes de contestar esa pregunta el mejor consejo es obtener la información de fuentes verificables, ya que, de no ser así, el trabajo efectuado no cumplirá su objetivo. En ese sentido existen varias fuentes fiables que se analizarán a continuación.        
+    p.mb-5(data-aos="fade-right") Seguramente en este momento, la siguiente pregunta es ¿de dónde se puede obtener la información que se necesita para crear un #[em buyer] persona? Y antes de contestar esa pregunta el mejor consejo es obtener la información de fuentes verificables, ya que, de no ser así, el trabajo efectuado no cumplirá su objetivo. En ese sentido existen varias fuentes fiables que se analizarán a continuación.        
 
     figure.mb-5(data-aos="zoom-in")
       img(src='@/assets/curso/tema3/img16.svg' alt="Imagen decorativa")            
 
-    p.mb-5 En el párrafo anterior se revisaron las fuentes primarias o directas de recopilación de información, además de estas existen herramientas tecnológicas que ayudan a recaudar datos. Revíselas a continuación:
+    p.mb-5(data-aos="fade-right") En el párrafo anterior se revisaron las fuentes primarias o directas de recopilación de información, además de estas existen herramientas tecnológicas que ayudan a recaudar datos. Revíselas a continuación:
 
     .BGIMG03.p-4.mb-5(data-aos="zoom-in")
       SlyderA(tipo="b")
@@ -322,7 +322,7 @@
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema3/img19.png' alt="Imagen decorativa")
 
-    p.mb-5 Además de estas y que quizá son también las más conocidas, existen otras herramientas que se conocen como escucha social o #[em social listening], entre ellas se pueden destacar:
+    p.mb-5(data-aos="fade-right") Además de estas y que quizá son también las más conocidas, existen otras herramientas que se conocen como escucha social o #[em social listening], entre ellas se pueden destacar:
 
     .row.justify-content-center.mb-5
       .col-lg-6.col-sm-10.mb-lg-0.mb-4(data-aos="fade-right")
@@ -356,9 +356,9 @@
                     span Buzzsumo
                     .indicador--click(v-if="mostrarIndicador")
 
-    p.mb-5 Con el uso de estas fuentes y herramientas se podrá recolectar la información necesaria para perfilar los #[em buyer] persona, lo cual es fantástico; pero también lleva al punto donde se tiene mucha información y es hora de que esa información se vuelva relevante. Es por esta razón que el último grupo de herramientas ayuda con la construcción en sí de los perfiles. Vea algunas de ellas.
+    p.mb-5(data-aos="fade-right") Con el uso de estas fuentes y herramientas se podrá recolectar la información necesaria para perfilar los #[em buyer] persona, lo cual es fantástico; pero también lleva al punto donde se tiene mucha información y es hora de que esa información se vuelva relevante. Es por esta razón que el último grupo de herramientas ayuda con la construcción en sí de los perfiles. Vea algunas de ellas.
 
-    TabsC.color-primario.mb-5
+    TabsC.color-primario.mb-5(data-aos="zoom-in")
       .py-3.py-md-4(titulo="CRM y bases de datos")
         .row.justify-content-center
           .col-lg-7.order-lg-1.order-2
@@ -379,7 +379,7 @@
       .py-3.py-md-4(titulo="LinkedIn")
         .row.justify-content-center
           .col-lg-7.order-lg-1.order-2
-            p.mb-5 Esta compañía ha ido mejorando su capacidad de análisis de datos. Allí los administradores de páginas disponen de análisis detallados que permiten evaluar las tendencias en función de indicadores y periodos de tiempo de los visitantes y seguidores. Esta podría ser útil en algunas industrias y en el segmento B2B.
+            p.mb-5 Esta compañía ha ido mejorando su capacidad de análisis de datos. Allí, los administradores de páginas disponen de análisis detallados que permiten evaluar las tendencias en función de indicadores y periodos de tiempo de los visitantes y seguidores. Esta podría ser útil en algunas industrias y en el segmento B2B.
             .row.justify-content-center
               .col-auto
                 a.boton.color-acento-botones.indicador__container(href="https://linkedin.com" target="_blank")
@@ -421,7 +421,7 @@
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema3/img27.jpg' alt="Imagen decorativa")
     
-    p.mb-5 Hasta aquí se tiene un gran cúmulo de información y herramientas que permiten su adecuado manejo. Se ha mencionado solo algunas, por tanto, la invitación es a profundizar el conocimiento de ellas en pos de lograr una visión más clara y holística del cliente ideal; pero este no es el fin de la jornada. Una vez preparada esta visión quedan aún dos acciones imprescindibles:
+    p.mb-5(data-aos="fade-right") Hasta aquí se tiene un gran cúmulo de información y herramientas que permiten su adecuado manejo. Se ha mencionado solo algunas, por tanto, la invitación es a profundizar el conocimiento de ellas en pos de lograr una visión más clara y holística del cliente ideal; pero este no es el fin de la jornada. Una vez preparada esta visión quedan aún dos acciones imprescindibles:
 
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.BG02.p-5(data-aos="fade-right")
@@ -437,7 +437,7 @@
         h3 Crear un #[em elevator pitch]
         p.mb-0 Este recurso es bastante útil y se trata de un discurso o exposición de producto muy breve y que resalta en qué aporta el producto o servicio al #[em buyer] persona.
 
-    p.mb-5 Con el fin de tener mayor conocimiento sobre ¿cómo se proyecta un #[em pitch] empleando técnicas verbales y no verbales? y los tipos de #[em pitch], se invita a consultar los siguientes videos:
+    p.mb-5(data-aos="fade-right") Con el fin de tener mayor conocimiento sobre ¿cómo se proyecta un #[em pitch] empleando técnicas verbales y no verbales? y los tipos de #[em pitch], se invita a consultar los siguientes videos:
 
     .row.justify-content-center.mb-4
       .col-lg-10.mb-4
@@ -469,8 +469,6 @@
                   a.boton.color-acento-botones(href="https://youtu.be/aZon_yknh3A" target="_blank")
                     span Ver
                     i.fab.fa-youtube
-
-
 
 </template>
 
