@@ -182,7 +182,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/623604_CF05_DU.pdf',
+        download: 'downloads/623604_CF05_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -358,7 +358,13 @@ export default {
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Laura Gisselle Murcia Pardo',
+          cargo: 'Ilustración',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y Producción audiovisual',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
@@ -371,6 +377,13 @@ export default {
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo:
+            'Validación de recursos educativos digitales y vinculación LMS',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },

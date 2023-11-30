@@ -141,7 +141,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/agXQ9ViaYD8?si=Nf3xRTl3imkSLDiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .BG05.p-4.mb-5(data-aos="flip-up")
       p.mb-0 Pues bien, ya conoció cómo se estructura un plan de mercadeo tradicional y para poder entender las nuevas dinámicas es importante reconocer cómo funciona el #[em marketing] digital, para poder hacer un contraste entre los dos tipos de planes y tomar la mejor decisión para la comercialización del turismo.
@@ -196,7 +196,7 @@
           .h4.mx-3.mb-0 <em>Conceptualización del neuromarketing</em>
     
     p(data-aos="fade-right") El #[em neuromarketing] es una disciplina relativamente nueva, que como se mencionó estudia la toma de decisiones de los consumidores, se centra en el estudio de las decisiones asociadas al mercadeo, y en el cerebro como elemento fundamental de esa toma de decisiones.
-    p.mb-5(data-aos="fade-right") Si lo piensa un momento, en e, la mayoría de estas decisiones se toman de manera inconsciente y son ordenadas por el cerebro, el cual evalúa todas las variables que tiene para emitir una decisión que define el patrón de conducta. Esos patrones de conducta son los que a la postre determinan que un cliente potencial elija su producto o el de la competencia.
+    p.mb-5(data-aos="fade-right") Si lo piensa un momento, en el día a día los humanos están constantemente tomando decisiones. ¿Dónde ir?, ¿qué comer?, ¿con quién hablar?, la mayoría de estas decisiones se toman de manera inconsciente y son ordenadas por el cerebro, el cual evalúa todas las variables que tiene para emitir una decisión que define el patrón de conducta. Esos patrones de conducta son los que a la postre determinan que un cliente potencial elija su producto o el de la competencia.
 
     .row.justify-content-center.mb-5
       .col-auto(data-aos="fade-right")
