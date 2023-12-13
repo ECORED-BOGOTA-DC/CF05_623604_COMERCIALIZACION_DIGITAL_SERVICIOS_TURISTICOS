@@ -173,7 +173,7 @@
       .tarjeta.BG18.p-4(titulo="Decisor")
         .row.justify-content-center
           .col-lg-8.order-lg-1.order-2
-            p.mb-0 Es en quien recae la decisión final de compra. Es el caso más común, especialmente en los procesos B2C (Business to costumer).
+            p.mb-0 Es en quien recae la decisión final de compra. Es el caso más común, especialmente en los procesos B2C (#[em Business to costumer]).
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema3/img05.svg' alt="Imagen decorativa")
       .tarjeta.BG18.p-4(titulo="Prescriptor")
@@ -251,22 +251,22 @@
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Analizar las conductas habituales de su #[em buyer] persona en entornos digitales es crucial para entender a través de qué canales puede conectar con él. Cuáles son sus intereses, qué tipo de contenido consume. Trate de responder a estas preguntas:
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img11.svg' alt="Muestra texto de las siguientes preguntas:<br>-¿Cómo se comporta en Internet? <br>-¿Es lector/a asiduo/a de blogs? <br>-¿Prefiere contenido multimedia? <br>-¿Usa habitualmente el correo electrónico?<br>-¿Prefiere acciones más directas como llamadas telefónicas?<br>-¿A qué redes sociales, grupos o comunidades pertenece? ")
+          img(src='@/assets/curso/tema3/img11.svg' alt="Muestra texto de las siguientes preguntas: -¿Cómo se comporta en Internet?  -¿Es lector/a asiduo/a de blogs?  -¿Prefiere contenido multimedia?  -¿Usa habitualmente el correo electrónico? -¿Prefiere acciones más directas como llamadas telefónicas? -¿A qué redes sociales, grupos o comunidades pertenece? ")
       .row.justify-content-center(titulo="Define objetivos, retos y sueños")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 El verdadero valor de este arquetipo de cliente ideal reside en que analiza aspectos que, muchas veces, en los perfiles de mercadeo tradicionales se obvian. Se hablan, por ejemplo, de los objetivos, preocupaciones, sueños e ilusiones del usuario o consumidor. Estos aspectos son los que permitirán conectar con él y construir un vínculo más fuerte; por lo tanto, debe trabajar sobre ellos y tratar de definirlos al máximo. Para ello, responda estas preguntas:
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img12.svg' alt="Muestra texto con las siguientes preguntas:<br>¿Qué persigue el buyer persona?<br>¿Qué objetivos pretende alcanzar?<br>¿A que retos ha de enfrentarse?<br>¿Qué sueños no ha podido cumplir aún?<br>¿Pueden los productos o servicios de la empresa hacerle la vida más fácil?<br>¿Qué sueños no ha podido cumplir aún?")
+          img(src='@/assets/curso/tema3/img12.svg' alt="Muestra texto con las siguientes preguntas: ¿Qué persigue el buyer persona? ¿Qué objetivos pretende alcanzar? ¿A que retos ha de enfrentarse? ¿Qué sueños no ha podido cumplir aún? ¿Pueden los productos o servicios de la empresa hacerle la vida más fácil? ¿Qué sueños no ha podido cumplir aún?")
       .row.justify-content-center(titulo="Pasa de las preguntas a la acción")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Una vez conoce sus motivaciones. Entender cómo su producto o servicio puede ayudarle, ya sea resolviendo el problema, cubriendo una necesidad o mejorando su día a día. Algunas preguntas que debe hacerse en este punto son:
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img13.svg' alt="Muestra texto con preguntas<br>-¿Cómo puede la marca o empresa ayudar al cliente a conseguir sus objetivos?<br>-¿Qué bloqueantes puede tener el potencial cliente a la hora de comprar su producto o servicio?<br>-¿Qué le puede ofrecer la competencia para que elija su producto o servicio en lugar del suyo? <br>-¿Cuál de los productos que ofrece es el que más se adapta al buyer persona? <br>-¿Se puede crear o adaptar un producto o servicio a las necesidades del cliente?")
+          img(src='@/assets/curso/tema3/img13.svg' alt="Muestra texto con preguntas -¿Cómo puede la marca o empresa ayudar al cliente a conseguir sus objetivos? -¿Qué bloqueantes puede tener el potencial cliente a la hora de comprar su producto o servicio? -¿Qué le puede ofrecer la competencia para que elija su producto o servicio en lugar del suyo?  -¿Cuál de los productos que ofrece es el que más se adapta al buyer persona?  -¿Se puede crear o adaptar un producto o servicio a las necesidades del cliente?")
       .row.justify-content-center(titulo="Póngase en la piel del cliente")
         .col-lg-7.order-lg-1.order-2
           p.mb-0 Al definir y redactar el retrato del #[em buyer] persona hay que incluir sus preocupaciones o pensamientos que la empresa podría solucionar. Algunas ideas pueden ser:
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema3/img14.svg' alt="Muestra texto:<br>-No consigo adelgazar<br>-No encuentro un buen profesor de inglés para mi<br>-Mi ecommerce no está bien posicionado ")
+          img(src='@/assets/curso/tema3/img14.svg' alt="Muestra texto: -No consigo adelgazar -No encuentro un buen profesor de inglés para mi -Mi ecommerce no está bien posicionado ")
       .row.justify-content-center(titulo="Define las expectativas sobre el producto del <em>buyer</em> persona")
         .col-lg-7.order-lg-1.order-2
           p Si el cliente ideal pudiera formular alguna duda o queja sobre el producto, ¿cuál sería?, ¿el precio?, ¿la calidad?
@@ -282,7 +282,7 @@
     p.mb-5(data-aos="fade-right") Seguramente en este momento, la siguiente pregunta es ¿de dónde se puede obtener la información que se necesita para crear un #[em buyer] persona? Y antes de contestar esa pregunta el mejor consejo es obtener la información de fuentes verificables, ya que, de no ser así, el trabajo efectuado no cumplirá su objetivo. En ese sentido existen varias fuentes fiables que se analizarán a continuación.        
 
     figure.mb-5(data-aos="zoom-in")
-      img(src='@/assets/curso/tema3/img16.svg' alt="Imagen decorativa")            
+      img(src='@/assets/curso/tema3/img16.svg' alt="Una caricatura de una persona. Descripción generada automáticamente con confianza media")            
 
     p.mb-5(data-aos="fade-right") En el párrafo anterior se revisaron las fuentes primarias o directas de recopilación de información, además de estas existen herramientas tecnológicas que ayudan a recaudar datos. Revíselas a continuación:
 
@@ -316,7 +316,7 @@
             p.mb-5 Este aplicativo utiliza un marco de referencia sencillo que permite crear y compartir personas de una forma rápida y ligera. Luego, se puede personalizar aún más las creaciones con detalles demográficos, comportamiento de clientes y objetivos de compra a largo plazo. 
             .row.justify-content-center
               .col-auto
-                a.boton.color-acento-botones.indicador__container(href="http://personapp.io/" target="_blank")
+                a.boton.color-acento-botones.indicador__container(href="https://personal.lante.com.co/#/" target="_blank")
                   span Personapp
                   .indicador--click(v-if="mostrarIndicador")
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
@@ -405,7 +405,7 @@
             .row.justify-content-center
               .col-auto
                 a.boton.color-acento-botones.indicador__container(href="https://trends.google.es" target="_blank")
-                  span Google trends
+                  span Google Trends
                   .indicador--click(v-if="mostrarIndicador")
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema3/img26.jpg' alt="Imagen decorativa")
@@ -449,7 +449,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1 ¿Cómo se proyecta un #[em pitch] empleando técnicas verbal y no verbal?
-                  p.mb-0 Con el fin de tener mayor conocimiento sobre las estrategias de mercadeo, se invita a consultar el siguiente link:
+                  p.mb-0 Con el fin de tener mayor conocimiento sobre cómo se proyecta un #[em pitch] empleando técnicas verbal y no verbal, se invita a consultar el siguiente link:
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/767vTiYvnyo" target="_blank")
                     span Ver
@@ -464,7 +464,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Tipos de #[em pitch]
-                  p.mb-0 Con el fin de tener mayor conocimiento sobre las estrategias de mercadeo, se invita a consultar el siguiente link:
+                  p.mb-0 Con el fin de tener mayor conocimiento sobre los tipos de #[em pitch], se invita a consultar el siguiente link:
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/aZon_yknh3A" target="_blank")
                     span Ver

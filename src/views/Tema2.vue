@@ -22,7 +22,7 @@
       .row.justify-content-center.mb-5
         .col-lg-8
           figure(data-aos="zoom-in")
-            img(src='@/assets/curso/tema2/img02.svg' alt="Muestra gráfica de segmentación del plan de mercado y se describen textos parte inferior.")
+            img(src='@/assets/curso/tema2/img02.svg' alt="Muestra gráfica de segmentación del plan de mercado: Geográficos.  Región: continente, país, provincia, municipio, código postal.  Densidad de la población: urbana, suburbana y rural.  Tamaño de la población: entre 300 y 500 mil habitantes.  Clima: días de sol al año, pluviometría. Demográficos.  Edad.  Sexo: hombre, mujer.  Tamaño de la familia  Generación: baby-boomers, generación X, milenials.  Ingresos.  Profesión.  Educación.  Grupo étnico.  Nacionalidad.  Religión.  Clase social. Psicográficos.  Actividades y aficiones.  Intereses.  Opiniones.  Actitudes.  Valores. Comportamientos de compra.  Percepción de beneficio: barato, lujoso, conveniente, de diseño, ecológico.  Frecuencia de uso.  Lealtad a la marca.  Ciclo de cliente: prospecto, primera compra, comprador recurrente.  Predisposición de compra.")
 
     p.mb-5(data-aos="fade-right") Al iniciar la fase de segmentación es recomendable formular preguntas que ayuden con la tarea. Vea algunos ejemplos:
 

@@ -66,7 +66,7 @@
                   h4.mb-1 Tu Dominio
                   p.mb-0 Para comprobar que un sitio #[em web] está siendo indexado se usa en el explorador la dirección. La consulta debe retornar como resultado el número de páginas internas de su #[em web] o uno similar.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="http://tudominio.com" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.tudominio.es/" target="_blank")
                     span Ingresar
                     i.fas.fa-link
 
@@ -231,7 +231,7 @@
       h2 4.2 SEM - #[em Search Engine Marketing]
     
     .BG06.p-4.mb-5(data-aos="flip-up")
-      p.mb-0 En el contexto de la industria de la publicidad #[em online] se pueden identificar dos grandes bloques. El primero dirigido por los buscadores (Google, YouTube, Bing, Yandex, Baidu, por mencionar algunos) y, el segundo guiado por las redes sociales (Facebook, Instagram, Twitter, TikTok). Este apartado se centrará en el mercadeo de motores de búsqueda o #[em Search Engine Marketing] - SEM por sus siglas en inglés, brindando los conceptos necesarios para entenderlo, reconociendo las principales plataformas, y desmenuzando todos los elementos y factores que intervienen en esta técnica.
+      p.mb-0 En el contexto de la industria de la publicidad #[em online] se pueden identificar dos grandes bloques. El primero dirigido por los buscadores (Google, YouTube, Bing, Yandex, Baidu, por mencionar algunos) y, el segundo guiado por las redes sociales (Facebook, Instagram, Twitter conocido ahora como X, TikTok). Este apartado se centrará en el mercadeo de motores de búsqueda o #[em Search Engine Marketing] - SEM por sus siglas en inglés, brindando los conceptos necesarios para entenderlo, reconociendo las principales plataformas, y desmenuzando todos los elementos y factores que intervienen en esta técnica.
 
     .row.justify-content-center.mb-5
       .col-lg-7.col-10.mb-lg-0.mb-4(data-aos="fade-right")
@@ -442,7 +442,7 @@
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         p Se pueden describir los medios sociales como agrupaciones digitales en las que las personas interactúan acorde a relaciones como amistad, parentesco, conocimientos o intereses comunes. De alguna forma son réplicas del ámbito material que a través de una plataforma tecnológica recrean el vínculo entre individuos, facilitando la interacción y el florecimiento de nuevos contactos. A continuación, estudiaremos un poco sobre los medios sociales.
         .cajon.color-primario.p-4.mb-4
-          p.mb-0 Debido a su uso masivo, estas redes se han convertido en un efectivo canal de comunicación, promoción, ventas y atención al cliente. Plataformas como Facebook, Instagram, WhatsApp, Twitter o TikTok, por mencionar algunas se han convertido en elementos fundamentales de cualquier estrategia digital, tanto para la efectiva difusión de contenidos y mensajes corporativos, como para la gestión de la reputación #[em online].
+          p.mb-0 Debido a su uso masivo, estas redes se han convertido en un efectivo canal de comunicación, promoción, ventas y atención al cliente. Plataformas como Facebook, Instagram, WhatsApp, Twitter conocido ahora como X o TikTok, por mencionar algunas se han convertido en elementos fundamentales de cualquier estrategia digital, tanto para la efectiva difusión de contenidos y mensajes corporativos, como para la gestión de la reputación #[em online].
         p.mb-0 En este punto es importante mencionar que la sola apertura de perfiles en redes sociales no constituye una parte de un plan de Mercadeo Digital, considerando importante en este apartado el manejo y el enfoque que se dé a las mismas, el cual debe obedecer a un objetivo claro para cada red social.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema4/img38.jpg' alt="Imagen decorativa")
@@ -513,7 +513,7 @@
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             .h4 #[em Microblogs]
-            p.mb-0 Son #[em blogs] de formato ligero en los que la condición principal es que el número de caracteres en cada mensaje no supere los 280. Estas publicaciones pequeñas permiten fotos, videos, #[em links] (a través de URL acortadas). Son muy apreciadas debido a su brevedad e inmediatez, lo que les permite ser una fuente de información fresca y dinámica. Twitter es el líder indiscutible entre este tipo de servicios, que ha experimentado un rápido desarrollo de la mano de los #[em smartphones].
+            p.mb-0 Son #[em blogs] de formato ligero en los que la condición principal es que el número de caracteres en cada mensaje no supere los 280. Estas publicaciones pequeñas permiten fotos, videos, #[em links] (a través de URL acortadas). Son muy apreciadas debido a su brevedad e inmediatez, lo que les permite ser una fuente de información fresca y dinámica. Twitter conocido ahora como X es el líder indiscutible entre este tipo de servicios, que ha experimentado un rápido desarrollo de la mano de los #[em smartphones].
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema4/img44.png' alt="Imagen decorativa")
         .row.justify-content-center

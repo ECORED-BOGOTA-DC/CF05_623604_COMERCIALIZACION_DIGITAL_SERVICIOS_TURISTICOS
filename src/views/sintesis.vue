@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="Muestra mapa conceptual de síntesis del componente formativo donde describe los temas estudiados en sus 4 puntos:<br>1. Mercadeo digital <br>2. Segmentación<br>3. Buyer persona<br>4. Posicionamiento y publicidad")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Muestra mapa conceptual de síntesis del componente formativo donde describe los temas estudiados en sus 4 puntos: 1. Mercadeo digital 2. Segmentación 3. Buyer persona 4. Posicionamiento y publicidad")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

@@ -176,19 +176,19 @@
                 img(src='@/assets/curso/tema1/img09.svg')
 
             .tarjeta.BG06.p-3(x="19%" y="7.25%" numero="01")
-              p.mb-0 “En efecto, como lo demostraría los resultados del estudio del cerebro, los productos más exitosos son aquellos que tienen más cosas en común con la religión".
+              p.mb-0 En efecto, como lo demostraría los resultados del estudio del cerebro, los productos más exitosos son aquellos que tienen más cosas en común con la religión.
             .tarjeta.BG07.p-3(x="6.5%" y="44.5%" numero="02")
-              p.text-white.mb-0 "Las advertencias de las carretillas de cigarrillos no solo no eran disuasiva, sino que activaban el núcleo de accumbens con lo cual inducir a los fumadores a encender un cigarrillo”.
+              p.text-white.mb-0 Las advertencias de las carretillas de cigarrillos no solo no eran disuasiva, sino que activaban el núcleo de accumbens con lo cual inducir a los fumadores a encender un cigarrillo.
             .tarjeta.BG08.p-3(x="19%" y="79%" numero="03")
-              p.mb-0 "El olor activa muchas de las mismas regiones del cerebro que activa la vista de un producto, incluida la vista del logotipo de un producto”.
+              p.mb-0 El olor activa muchas de las mismas regiones del cerebro que activa la vista de un producto, incluida la vista del logotipo de un producto.
             .tarjeta.BG09.p-3(x="50.2%" y="93%" numero="04")
-              p.text-white.mb-0 "British airways emplea un aroma llamado "meadow grass" para aromatizar la sala de espera donde recibe sus viajeros de negocios, para dar una sensación de frescura y "libertad" a sus clientes”.
+              p.text-white.mb-0 British airways emplea un aroma llamado "meadow grass" para aromatizar la sala de espera donde recibe sus viajeros de negocios, para dar una sensación de frescura y "libertad" a sus clientes.
             .tarjeta.BG10.p-3(x="82%" y="78.5%" numero="05")
-              p.text-white.mb-0 "Al ver imágenes asociadas con las marcas fuertes como iPod, la Harley Davidson, el Ferrari y otras en el cerebro, registros que acata los mismos patrones de actividad que se producen con imágenes religiosas”.
+              p.text-white.mb-0 Al ver imágenes asociadas con las marcas fuertes como iPod, la Harley Davidson, el Ferrari y otras en el cerebro, registros que acata los mismos patrones de actividad que se producen con imágenes religiosas.
             .tarjeta.BG11.p-3(x="93.6%" y="44.2%" numero="06")
-              p.text-white.mb-0 Las neuronas espejo están muy involucradas en los procesos de "imitación" y "empatía “, con los cuales se pueden activar al percibir un touch point de marca; pero su importancia va más allá, ya que "envían señales al sistema límbico o región emocional del cerebro”.
+              p.text-white.mb-0 Las neuronas espejo están muy involucradas en los procesos de "imitación" y "empatía “, con los cuales se pueden activar al percibir un touch point de marca; pero su importancia va más allá, ya que "envían señales al sistema límbico o región emocional del cerebro.
             .tarjeta.BG12.p-3(x="81%" y="7.25%" numero="07")
-              p.text-white.mb-0 "Las marcas y las religiones comparten muchas cosas en común, por ejemplo, son los símbolos religiosos los que aportan, evocan poder y misticismo en sus creyentes, y son los logotipos y visuales implicados en el branding de una marca lo que funciona como "símbolo" en la mente del consumidor“.
+              p.text-white.mb-0 Las marcas y las religiones comparten muchas cosas en común, por ejemplo, son los símbolos religiosos los que aportan, evocan poder y misticismo en sus creyentes, y son los logotipos y visuales implicados en el branding de una marca lo que funciona como "símbolo" en la mente del consumidor.
     
     .row.justify-content-start.mb-5
       .col-auto(data-aos="fade-right")
@@ -214,21 +214,21 @@
     .BGM13.px-md-5.px-4.mb-5(data-aos="fade-right")
       .row.justify-content-center
         .col-lg-6.mb-4
-          img(src='@/assets/curso/tema1/img13.svg' alt="Muestra ordenes dadas por el celebro conel siguiente texto:<br>-Detectar necesidades.<br>-Manufacturar sus productos.<br>-Diseñar estrategias de mercadeo, focalizadas en indicarle al cerebro quetome la decision a su favor.")
+          img(src='@/assets/curso/tema1/img13.svg' alt="Muestra ordenes dadas por el cerebro conel siguiente texto:<br>-Detectar necesidades.<br>-Manufacturar sus productos.<br>-Diseñar estrategias de mercadeo, focalizadas en indicarle al cerebro quetome la decision a su favor.")
         .col-12
           p.mb-5 Esto convierte el cerebro del cliente, concretamente su parte más inconsciente, en su principal objetivo de estudio en #[em neuromarketing], ya que cuanto mejor lo conoce más fácil será detectar sus necesidades y manufacturar sus productos para cubrirlas, al tiempo que se diseñan estrategias de mercadeo focalizadas en indicarle al cerebro que tome la decisión a su favor.
     
     .BGM13.px-md-5.px-4.mb-5(data-aos="fade-right")
       .row.justify-content-center
         .col-lg-6
-          img(src='@/assets/curso/tema1/img14.svg' alt="Muestra texto, Celebro cuando toma <br>¿Como se evalúan?<br>Las recompensas y los riegos<br>¿Como se calculan las posibilidades?")
+          img(src='@/assets/curso/tema1/img14.svg' alt="Muestra texto, cerebro cuando toma <br>¿Como se evalúan?<br>Las recompensas y los riegos<br>¿Como se calculan las probabilidades?")
 
     p.mb-5(data-aos="fade-right") En los últimos tiempos las investigaciones han entregado nuevas evidencias sobre cómo el cerebro humano toma estas decisiones, y se conoce ampliamente cómo se evalúan las recompensas, los riesgos y se calculan las probabilidades, esto ha llevado a poder casi predecir el comportamiento del consumidor y estudiarlo con base en sus fundamentos biológicos básicos.
 
     .BG14.pt-4.mb-5(data-aos="zoom-in")
       .row.justify-content-center
         .col-lg-10
-          img(src='@/assets/curso/tema1/img15.svg' alt="IImagen con 2 personas con el texto,<br>Se gusta pensar qué se sabe sobre lo que se quiere.<br>Y de forma racional se utiliza la información para comprender.")
+          img(src='@/assets/curso/tema1/img15.svg' alt="Imagen con 2 personas con el texto,<br>Se gusta pensar qué se sabe sobre lo que se quiere.<br>Y de forma racional se utiliza la información para comprender.")
 
     p.mb-5(data-aos="fade-right") Desde el rol de consumidores se gusta pensar que se sabe lo que se quiere y que de forma racional se utiliza la información disponible para comprender objetivamente las compras que se realizan.
     
@@ -331,50 +331,50 @@
           table(alt="El Customer Journey Map es una técnica de Design Thinking, en la que se plasma gráficamente la experiencia de cliente en cada punto de contacto que una empresa tiene a su disposición.")
             thead(style="border-color: transparent")
               tr(data-aos="fade-right")
-                th(style="background-color: #FFF; width: 25%;").text-end Costumer<br>Journey<br>Map
-                th(style="background-color: #3D672F; width: 15%;").text-white Awareness<br>(conciencia)
-                th(style="background-color: #3D672F; width: 15%;").text-white Consideration<br>(consideración)
-                th(style="background-color: #3D672F; width: 15%;").text-white Acquisition<br>(adquisición)
-                th(style="background-color: #3D672F; width: 15%;").text-white Service<br>(servicio)
-                th(style="background-color: #3D672F; width: 15%;").text-white Retention<br>(retención)
+                th(style="background-color: #FFF; width: 25%;").text-end #[em Costumer]<br>#[em Journey]<br>#[em Map]
+                th(style="background-color: #3D672F; width: 15%;").text-white #[em Awareness]<br>(conciencia)
+                th(style="background-color: #3D672F; width: 15%;").text-white #[em Consideration]<br>(consideración)
+                th(style="background-color: #3D672F; width: 15%;").text-white #[em Acquisition]<br>(adquisición)
+                th(style="background-color: #3D672F; width: 15%;").text-white #[em Service]<br>(servicio)
+                th(style="background-color: #3D672F; width: 15%;").text-white #[em Retention]<br>(retención)
             tbody
               tr(data-aos="fade-right")
-                th(style="background-color: #617A0B;").text-white Costumer Goals<br>(objetivos del cliente)
+                th(style="background-color: #617A0B;").text-white #[em Costumer Goals]<br>(objetivos del cliente)
                 td
                 td
                 td
                 td
                 td
               tr(data-aos="fade-right")
-                th(style="background-color: #617A0B;").text-white Costumer Actions<br>(acciones del cliente)
+                th(style="background-color: #617A0B;").text-white #[em Costumer Actions]<br>(acciones del cliente)
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
               tr(data-aos="fade-right")
-                th(style="background-color: #617A0B;").text-white Touchpoints &amp; channels<br>(canales y puntos de contacto)
+                th(style="background-color: #617A0B;").text-white #[em Touchpoints &amp; channels]<br>(canales y puntos de contacto)
                 td
                 td
                 td
                 td
                 td
               tr(data-aos="fade-right")
-                th(style="background-color: #617A0B;").text-white Customers Thoughts/Emotions<br>(pensamientos y emociones del cliente)
+                th(style="background-color: #617A0B;").text-white #[em Customers Thoughts/Emotions]<br>(pensamientos y emociones del cliente)
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
               tr(data-aos="fade-right")
-                th(style="background-color: #617A0B;").text-white Pain points<br>(puntos sensibles)
+                th(style="background-color: #617A0B;").text-white #[em Pain points]<br>(puntos sensibles)
                 td
                 td
                 td
                 td
                 td
               tr(data-aos="fade-right")
-                th(style="background-color: #617A0B;").text-white Opportunities to Improve<br>(oportunidades de mejora)
+                th(style="background-color: #617A0B;").text-white #[em Opportunities to Improve]<br>(oportunidades de mejora)
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
                 td(style="background-color: #F6F6F6;")
@@ -394,7 +394,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Guía para elaborar Customer Jouney Map
-                  p.mb-0 Con el fin de tener mayor conocimiento sobre cómo funciona el #[em marketing] digital, se invitamos a revisar el siguiente e-book:
+                  p.mb-0 Con el fin de tener mayor conocimiento sobre cómo funciona el #[em marketing] digital, le invitamos a revisar el siguiente e-book:
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Guia_para_elaborar_Customer_Jouney_Map.pdf')" target="_blank" type="application/pdf")
                     span Descargar
@@ -409,7 +409,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img26.svg' alt="Muestra Gráfico de embudo estándar  los textos se mencionan en la parte inferior de la misma.")
+          img(src='@/assets/curso/tema1/img26.svg' alt="Muestra Gráfico de embudo estándar  los textos se mencionan: a) Embudo estándar. b) Página de aterrizaje: un usuario llega a la página web a través de alguna fuente de tráfico (SEO, SEM, publicidad “display” programa de afiliados, redes sociales, etc). c) Navegación: Por las diferentes categorías y páginas de producto. d) Carrito de Compras. e) Confirmación de compra. f) Introducción de datos personales. g) Introducción de datos financieros (medios de pago). h) Confirmación de pedido. i) Conversión: el usuario abandona la Web tras visualizar una página de agradecimiento.")
     
     p.mb-5(data-aos="fade-right") Los #[em funnels] de conversión como el expuesto en el ejemplo se basan en el modelo AIDA (#[strong Atención, Interés, Deseo y Acción]), que ilustra el proceso y establece una secuencia para optimizar los contenidos de las páginas que soportan cada una las fases.
 

@@ -55,7 +55,7 @@ export default {
           },
           {
             numero: '1.2',
-            titulo: 'Neuromarketing',
+            titulo: '<em>Neuromarketing</em>',
             hash: 't_1_2',
           },
           {
@@ -65,7 +65,7 @@ export default {
           },
           {
             numero: '1.4',
-            titulo: 'Customer Journey Map',
+            titulo: '<em>Customer Journey Map</em>',
             hash: 't_1_4',
           },
           {
@@ -102,12 +102,12 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Buyer persona',
+        titulo: '<em>Buyer</em> persona',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Definición de buyer persona',
+            titulo: 'Definición de <em>buyer</em> persona',
             hash: 't_3_1',
           },
           {
@@ -117,12 +117,12 @@ export default {
           },
           {
             numero: '3.3',
-            titulo: 'Tipos de buyer persona',
+            titulo: 'Tipos de <em>buyer</em> persona',
             hash: 't_3_3',
           },
           {
             numero: '3.4',
-            titulo: 'Delimitar buyer persona',
+            titulo: 'Delimitar <em>buyer</em> persona',
             hash: 't_3_4',
           },
         ],
@@ -135,17 +135,17 @@ export default {
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'SEO - Search Engine Optimization',
+            titulo: 'SEO - <em>Search Engine Optimization</em>',
             hash: 't_4_1',
           },
           {
             numero: '4.2',
-            titulo: 'SEM - Search Engine <em>Marketing</em>',
+            titulo: 'SEM - <em>Search Engine Marketing</em>',
             hash: 't_4_2',
           },
           {
             numero: '4.3',
-            titulo: 'Social Media',
+            titulo: '<em>Social Media</em>',
             hash: 't_4_3',
           },
         ],
@@ -206,7 +206,7 @@ export default {
         'https://books.google.es/books?hl=es&lr=&id=1CjcHjyuvssC&oi=fnd&pg=PA9&dq=La+estrategia+del+oc%C3%A9ano+azul+de+Ren%C3%A9e+Mauborgne+y+W.+Chan+Kim&ots=MbrO3OfNCt&sig=D_tQudGYGYU76j8naeyYeP-wBH4',
     },
     {
-      tema: 'Los sitemaps',
+      tema: 'Los <em>sitemaps</em>',
       referencia:
         'ICANN (2023). Guía del Usuario del Portal de Servicios de Nombres para Registros.',
       tipo: 'Libro digital',
@@ -214,29 +214,30 @@ export default {
         'https://www.icann.org/es/system/files/files/nsp-registries-user-guide-13jul23-es.pdf',
     },
     {
-      tema: 'Evolución histórica del neuromarketing',
+      tema: 'Evolución histórica del <em>neuromarketing</em>',
       referencia:
         'Ecosistema de Recursos Educativos Digitales SENA.  (2021). Evolución concepto de mercado [video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/DgLQ5jA1pIw',
     },
     {
-      tema: 'Evolución histórica del neuromarketing',
+      tema: 'Evolución histórica del <em>neuromarketing</em>',
       referencia:
-        'Merodio, J. ( 2017). ¿Cómo funciona el marketing digital? [video]. YouTube.',
+        'Merodio, J. ( 2017). ¿Cómo funciona el <em>marketing digital?</em> [video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/vNrxe5nJenU DI_CF08',
     },
     {
       tema: 'Segmentación',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Plan de marketing digital [video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Plan de <em>marketing digital</em> [video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/owxaHr0-5kQ',
     },
     {
-      tema: 'Customer Journey Map',
-      referencia: 'Ideapuerto. (2020). Customer journey map [video]. YouTube.',
+      tema: '<em>Customer Journey Map</em>',
+      referencia:
+        'Ideapuerto. (2020). <em>Customer journey map</em> [video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/4V6TuNn5cbQ _1.1.',
     },
@@ -275,7 +276,7 @@ export default {
     {
       termino: 'URL',
       significado:
-        'Uniform Resource Locator es la dirección única y específica que se asigna a los recursos web disponibles en la <em>World Wide Web</em>.',
+        ' Uniform Resource Locator es la dirección única y específica que se asigna a los recursos web disponibles en la <em>World Wide Web</em>.',
     },
   ],
   referencias: [
